@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[km:home|Door43 (km)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[km:obs|Open Bible Stories (km)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-km|d43-km repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-km/archive/master.zip|d43-km.zip]]
+
+**Recent Changes**
+{{changes>ns = km}}
+
+**Latest Status**
+{{page>en:uwadmin:km:obs:status}}
+
