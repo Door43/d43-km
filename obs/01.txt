@@ -6,21 +6,23 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
-បន្ទាប់មក ព្រះមានបន្ទូលថា៖ “ចូរមានពន្លឺ<font inherit/inherit;;inherit;;inherit>! ”</font> <font inherit/inherit;;inherit;;inherit>។ នោះក៏មានពន្លឺ។ ព្រះទតឃើញថាពន្លឺនោះល្អ ព្រះអង្គក៏ហៅវាថា “ថ្ងៃ ”</font> <font inherit/inherit;;inherit;;inherit>។ ព្រះអង្គបានញែកវាចេញពីភាពងងឹត ហើយហៅភាពងងឹតថា “យប់ ”</font> <font inherit/inherit;;inherit;;inherit>។ ព្រះបានបង្កើតពន្លឺនៅក្នុងថ្ងៃទីមួយនៃការបង្កើតពិភពលោក។​</font>
+បន្ទាប់មក ព្រះមានបន្ទូលថា៖ “ចូរមានពន្លឺ<font inherit/inherit;;inherit;;inherit>! ”</font>    <font inherit/inherit;;inherit;;inherit>។ នោះក៏មានពន្លឺ។ ព្រះទតឃើញថាពន្លឺនោះល្អ ព្រះអង្គក៏ហៅវាថា “ថ្ងៃ”</font>    <font inherit/inherit;;inherit;;inherit>។ ព្រះអង្គបានញែកវាចេញពីភាពងងឹត ហើយហៅភាពងងឹតថា “យប់”</font>    <font inherit/inherit;;inherit;;inherit>។ ព្រះបានបង្កើតពន្លឺនៅថ្ងៃទីមួយនៃការបង្កើតពិភពលោក។​</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
-On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below.
+នៅថ្ងៃទីពីរនៃការបង្កើតពិភពលោក ព្រះបានមានបន្ទូលឲ្យមានមេឃនៅលើផែនដី។ ព្រះអង្គបង្កើតមេឃដោយញែកទឹកខាងលើចេញពីទឹកខាងក្រោម។​<font inherit/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>​</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
-On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and he called the water "seas." God saw that what he had created was good.
+នៅថ្ងៃទីបី ព្រះមានបន្ទូលឲ្យទឹកញែកចេញពីដីគោក។ ព្រះអង្គហៅដីគោកថា <font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>“</font> ដី<font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>”</font> ហើយហៅទឹកថា <font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>“</font> សមុទ្រ<font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>”</font> ។ ព្រះបានទតឃើញថាអ្វីដែលព្រះអង្គបានបង្កើតល្អហើយ។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
-Then God said, "Let the earth produce all kinds of trees and plants." And that is what happened. God saw that what he had created was good.
+រួចព្រះមានបន្ទូលថា៖ <font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>“</font> ចូរឲ្យផែនដីកើតរុក្ខជាតិ និងតិណជាតិគ្រប់ប្រភេទ<font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>”</font> ។ នោះក៏កើតមានឡើង។ ព្រះទតឃើញថាអ្វីដែលព្រះអង្គបានបង្កើតល្អហើយ។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
+
+នៅថ្ងៃទីបួននៃការបង្កើតពិភពលោក ព្រះបានមានបន្ទូលឲ្យមានព្រះអាទិត្យ ព្រះចន្ទ និងផ្កាយ។ ព្រះបានបង្កើតវាដើម្បីបំភ្លឺផែនដី ព្រមទាំងដើម្បីកំណត់ឲ្យមានថ្ងៃនិងយប់ រដូវនិងឆ្នាំ។ ព្រះទតឃើញថាអ្វីដែលព្រះអង្គបានបង្កើតល្អហើយ។​<font 14px line-height: 19.6000003814697px;/inherit;;inherit font-size: 14px; line-height: 19.6000003814697px;;;inherit>​</font>
 
 On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years. God saw that what he had created was good.
 
