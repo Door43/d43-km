@@ -6,19 +6,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
-បន្ទាប់មក ព្រះមានបន្ទូលថា៖
-“
-
-</font> ចូរមានពន្លឺ!
-”
-
-</font> ។ នោះក៏មានពន្លឺ។ ព្រះទតឃើញថាពន្លឺនោះល្អ ព្រះអង្គក៏ហៅវាថា <font 14px line-height: 19.6000003814697px;/inherit;;rgb(0, 0, 0) font-size: 14px; line-height: 19.6000003814697px;;;inherit>“</font> ថ្ងៃ
-”
-
-</font> ។ ព្រះអង្គបានញែកវាចេញពីភាពងងឹត ហើយហៅភាពងងឹតថា <font 14px line-height: 19.6000003814697px;/inherit;;rgb(0, 0, 0) font-size: 14px; line-height: 19.6000003814697px;;;inherit>“</font> យប់
-”
-
-</font> ។ ព្រះបានបង្កើតពន្លឺនៅក្នុងថ្ងៃទីមួយនៃការបង្កើតពិភពលោក។​
+បន្ទាប់មក ព្រះមានបន្ទូលថា៖ “ចូរមានពន្លឺ<font inherit/inherit;;inherit;;inherit>! ”</font> <font inherit/inherit;;inherit;;inherit>។ នោះក៏មានពន្លឺ។ ព្រះទតឃើញថាពន្លឺនោះល្អ ព្រះអង្គក៏ហៅវាថា “ថ្ងៃ ”</font> <font inherit/inherit;;inherit;;inherit>។ ព្រះអង្គបានញែកវាចេញពីភាពងងឹត ហើយហៅភាពងងឹតថា “យប់ ”</font> <font inherit/inherit;;inherit;;inherit>។ ព្រះបានបង្កើតពន្លឺនៅក្នុងថ្ងៃទីមួយនៃការបង្កើតពិភពលោក។​</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
