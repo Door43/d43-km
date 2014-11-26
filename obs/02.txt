@@ -6,21 +6,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?direct&}}
 
-ប៉ុន្តែនៅក្នុងសួនឧស្យានមានពស់ដែលមានកលល្បិច។ វាបានសួរស្ត្រីថា៖ “<font inherit/inherit;;inherit;;inherit>តើព្រះពិតជាប្រាប់អ្នកមិនឲ្យហូបផ្លែឈើទាំងឡាយណាពីសួនឧស្យានមែនទេ?”​</font> <font inherit/inherit;;inherit;;inherit>។</font>
+ប៉ុន្តែនៅក្នុងសួនឧស្យានមានពស់ដែលមានកលល្បិច។ វាបានសួរស្ត្រីថា៖ “<font inherit/inherit;;inherit;;inherit>តើព្រះពិតជាប្រាប់អ្នកមិនឲ្យហូបផ្លែឈើទាំងឡាយណាពីសួនឧស្យានមែនទេ?”​</font>    <font inherit/inherit;;inherit;;inherit>។</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?direct&}}
 
-ស្ត្រីឆ្លើយថា៖​<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“</font> ព្រះបានប្រាប់យើងថា យើងអាចហូបផ្លែពីដើមឈើណាក៏បាន លើកលែងតែផ្លែពីដើមឈើស្គាល់ល្អនិងអាក្រក់។ ព្រះបានប្រាប់យើងថា
-‘
-
-</font> ប្រសិនបើអ្នកហូបផ្លែនោះ ឬគ្រាន់តែប៉ះវា អ្នកនឹងស្លាប់
-’
-
-</font> <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”</font> ។
+ស្ត្រីឆ្លើយថា៖​<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>“</font>    ព្រះបានប្រាប់យើងថា យើងអាចហូបផ្លែពីដើមឈើណាក៏បាន លើកលែងតែផ្លែពីដើមឈើស្គាល់ល្អនិងអាក្រក់។ ព្រះបានប្រាប់យើងថា ‘<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>ប្រសិនបើអ្នកហូបផ្លែនោះ</font> ឬគ្រាន់តែប៉ះវា<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit></font> អ្នកនឹងស្លាប់<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>’</font> <font 14px line-height: 19.6000003814697px/inherit;;inherit line-height: 1.4;;;inherit>”</font>   <font 14px line-height: 19.6000003814697px/inherit;;inherit line-height: 1.4;;;inherit>។</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?direct&}}
 
-ពស់តបនឹងស្ត្រីថា៖ <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“</font> នោះមិនពិតទេ! អ្នកនឹងមិនស្លាប់ឡើយ។ ព្រះគ្រាន់តែដឹងថាកាលណាអ្នកហូបវា អ្នកនឹងបានដូចជាព្រះ ហើយស្គាល់ល្អ និងអាក្រក់ដូចព្រះអង្គប៉ុណ្ណោះ<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”</font> ។
+ពស់តបនឹងស្ត្រីថា៖ <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>“</font>    នោះមិនពិតទេ! អ្នកនឹងមិនស្លាប់ឡើយ។ ព្រះគ្រាន់តែដឹងថាកាលណាអ្នកហូបវា អ្នកនឹងបានដូចជាព្រះ ហើយស្គាល់ល្អ និងអាក្រក់ដូចព្រះអង្គប៉ុណ្ណោះ<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>”</font>    ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?direct&}}
 
