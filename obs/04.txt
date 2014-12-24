@@ -1,62 +1,39 @@
 ====== 4. សម្ពន្ធមេត្រីរបស់ព្រះជាមួយអប្រាហាំ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?direct&}}
 
 ច្រើនឆ្នាំក្រោយពីទឹកជំនន់ មនុស្សជាច្រើនបានកកើតនៅលើផែនដីវិញ ហើយពួកគេទាំងអស់គ្នានិយាយភាសាដូចគ្នា។ ជំនួសឲ្យចេញទៅពេញលើផែនដីដូចដែលព្រះបានបង្គាប់ ពួកគេបានប្រមូលផ្ដុំគ្នា ហើយកសាងទីក្រុងមួយ។
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?direct&}}
 
 ពួកគេអួតក្អេងក្អាងណាស់ ហើយមិនខ្វល់អំពីអ្វីដែលព្រះមានបន្ទូលឡើយ។ ពួកគេថែមទាំងចាប់ផ្ដើមកសាងប៉មមួយឲ្យខ្ពស់ដល់ស្ថានសួគ៌។ ព្រះទតឃើញថា ប្រសិនបើពួកគេទាំងអស់រួមគ្នាបន្តធ្វើការសម្រាប់ការអាក្រក់ ពួកគេអាចធ្វើអ្វីៗដែលអាក្រក់កាន់តែច្រើន។
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?direct&}}
 
 ដូច្នេះ ព្រះបានប្ដូរភាសារបស់ពួកគេទៅជាភាសាផ្សេៗគ្នា ហើយឲ្យមនុស្សបែកខ្ញែកគ្នាទៅពាសពេញផែនដីទាំងមូល។ ទីក្រុងដែលពួកគេបានចាប់ផ្ដើមកសាងហៅថា បាបិល ដែលមានន័យថា “ធ្វើឲ្យច្រឡំ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?direct&}}
 
+ប៉ុន្មានរយឆ្នាំក្រោយមក ព្រះបានមានបន្ទូលនឹងបុរសម្នាក់ឈ្មោះ អាប់រ៉ាម។ ព្រះបានប្រាប់គាត់ថា៖ “ចូរចាកចេញពីស្រុក និងញាតិសន្ដានរបស់អ្នក ហើយឆ្ពោះទៅស្រុកដែលយើងនឹងបង្ហាញអ្នក។ យើងនឹងប្រទានពរ<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>ដល់</font> អ្នក ហើយធ្វើឲ្យអ្នកទៅជាប្រជាជាតិមួយដ៏ធំ។ យើងនឹងធ្វើ<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>ឲ្យ</font> អ្នកមានឈ្មោះល្បី។ យើងនឹងប្រទានពរដល់អស់អ្នកដែលឲ្យពរអ្នក ហើយដាក់បណ្ដាសាដល់អស់អ្នកដែលដាក់បណ្ដសាអ្នក។ គ្រួសារទាំងអស់លើផែនដីនឹងទទួលពរដោយសារតែអ្នក”។
 
-ប៉ុន្មានរយឆ្នាំក្រោយមក ព្រះបានមានបន្ទូលនឹងបុរសម្នាក់ឈ្មោះ អាប់រ៉ាម។ ព្រះបានប្រាប់គាត់ថា៖ “ចូរចាកចេញពីស្រុក និងញាតិសន្ដានរបស់អ្នក ហើយឆ្ពោះទៅស្រុកដែលយើងនឹងបង្ហាញអ្នក។ យើងនឹងប្រទានពរអ្នក ហើយធ្វើឲ្យអ្នកទៅជាប្រជាជាតិមួយដ៏ធំ។ យើងនឹងធ្វើអ្នកមានឈ្មោះល្បី។ យើងនឹងប្រទានពរដល់អស់អ្នកដែលឲ្យពរអ្នក ហើយដាក់បណ្ដាសាដល់អស់អ្នកដែលដាក់បណ្ដសាអ្នក។ គ្រួសារទាំងអស់លើផែនដីនឹងទទួលពរដោយសារតែអ្នក”។
-Hundreds of years later, God spoke to a man named Abram. God told him, "Leave your country and family and go to the land I will show you. I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you."
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?direct&}}
 
 អាប់រ៉ាមស្ដាប់បង្គាប់ព្រះ។ គាត់បានយកប្រពន្ធរបស់គាត់ ឈ្មោះសារ៉ាយ ទៅជាមួយ ព្រមទាំងពួកអ្នកបម្រើ និងអ្វីៗដែលជារបស់គាត់ ហើយចេញទៅស្រុកដែលព្រះបានបង្ហាញគាត់ គឺស្រុកកាណាន។
-So Abram obeyed God. He took his wife, Sarai, together with all of his servants and everything he owned and went to the land God showed him, the land of Canaan.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg}}
+នៅពេលអាប់រ៉ាមទៅដល់កាណាន ព្រះមានបន្ទូលថា៖ <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“</font> ចូរក្រឡេកមើលអ្វីៗទាំងអស់នៅជុំវិញអ្នក។ យើងនឹងឲ្យដល់អ្នក និងពូជពង្សរបស់អ្នកទុកជាមរតក គឺស្រុកទាំងអស់ដែលអ្នកអាចមើលឃើញ<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”</font> ។ អាប់រ៉ាមក៏តាំងទីលំនៅក្នុងស្រុកនោះ។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?direct&}}
 
-នៅពេលអាប់រ៉ាមទៅដល់កាណាន ព្រះមានបន្ទូលថា៖ «ចូរក្រឡេកមើលអ្វីៗទាំងអស់នៅជុំវិញអ្នក។ យើងនឹងឲ្យដល់អ្នក និងពូជពង្សរបស់អ្នកទុកជាមរតក គឺស្រុកទាំងអស់ដែលអ្នកអាចមើលឃើញ»។ អាប់រ៉ាមក៏តាំងទីលំនៅក្នុងស្រុកនោះ។
-When Abram arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance." Then Abram settled in the land.
+ថ្ងៃមួយ អាប់រ៉ាមបានជួបនឹងម៉ិលគីស្សាដែក ជាបូជាចារ្យរបស់ព្រះដ៏ខ្ពស់បំផុត។ ម៉ិលគីស្សាដែកបានឲ្យពរដល់អាប់រ៉ាម ហើយនិយាយថា៖ <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“</font> សូមឲ្យព្រះដ៏ខ្ពស់បំផុតដែលជាម្ចាស់ស្ថានសួគ៌ និងផែនដីប្រទានពរដល់អាប់រ៉ាម<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”</font> ។ បន្ទាប់មក អាប់រ៉ាមបានឲ្យម៉ិលគីស្សាដែកមួយភាគដប់នៃរបស់ទាំងអស់ដែលគាត់មាន។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg}}
+ច្រើនឆ្នាំកន្លងផុតទៅ ប៉ុន្តែអាប់រ៉ាម និងសារ៉ាយនៅតែមិនទាន់មានកូន។ ព្រះបានមានបន្ទូលនឹងអាប់រ៉ាម ព្រមទាំងសន្យាទៀតថា គាត់នឹងមានកូនប្រុស ហើយមានពូជពង្សច្រើនដូចជាផ្កាយនៅលើមេឃ។ អាប់រ៉ាមជឿសេចក្ដីសន្យារបស់ព្រះ។ ព្រះបានប្រកាសថាអាប់រ៉ាមជាមនុស្សសុចរិត ពីព្រោះគាត់បានជឿលើសេចក្ដីសន្យារបស់ព្រះ។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?direct&}}
 
-ថ្ងៃមួយ អាប់រ៉ាមបានជួបនឹងម៉ិលគីស្សាដែក ជាបូជាចារ្យរបស់ព្រះដ៏ខ្ពស់បំផុត។ ម៉ិលគីស្សាដែកបានឲ្យពរអាប់រ៉ាមថា៖ «សូមឲ្យព្រះដ៏ខ្ពស់បំផុតដែលជាម្ចាស់ឋានសួគ៌ និងផែនដីប្រទានពរអាប់រ៉ាម»។ រួចអាប់រ៉ាមបានឲ្យម៉ិលគីស្សាដែកមួយភាគដប់នៃរបស់ទាំងអស់ដែលគាត់មាន។
-One day, Abram met Melchizedek, the priest of God Most High. Melchizedek blessed Abram and said, "May God Most High who owns heaven and earth bless Abram." Then Abram gave Melchizedek a tenth of all he owned.
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg}}
-
-
-ច្រើនឆ្នាំកន្លងផុតទៅ អាប់រ៉ាម និងសារ៉ាយនៅតែមិនទាន់មានកូន។ ព្រះបានមានបន្ទូលនឹងអាប់រ៉ាម ព្រមទាំងសន្យាទៀតថា គាត់នឹងមានកូន ហើយមានពូជពង្សច្រើនដូចជាផ្កាយនៅលើមេឃ។ អាប់រ៉ាមជឿសេចក្ដីសន្យារបស់ព្រះ។ ព្រះបានប្រកាសថាអាប់រ៉ាមជាមនុស្សសុចរិត ពីព្រោះគាត់បានជឿលើសេចក្ដីសន្យារបស់ព្រះ។
-Many years went by, but Abram and Sarai still did not have a son. God spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed God's promise. God declared that Abram was righteous because he believed in God's promise.
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg}}
-
-
-ព្រះក៏ចងសម្ពន្ធមេត្រីមួយជាមួយអាប់រ៉ាម។ សម្ពន្ធមេត្រី គឺជាការយល់ព្រមរវាងពីរភាគី។ ព្រះមានបន្ទូលថា៖ «យើងនឹងប្រទានកូនប្រុសម្នាក់ដែលកើតចេញពីសាច់ឈាមរបស់អ្នក។ យើងប្រគល់ស្រុកកាណានដល់ពូជពង្សរបស់អ្នក»។ ប៉ុន្តែអាប់រ៉ាមនៅតែមិនទាន់មានកូនមួយនៅឡើយទេ។
-Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, "I will give you a son from your own body. I give the land of Canaan to your descendants." But Abram still did not have a son.
+ព្រះក៏ចងសម្ពន្ធមេត្រីមួយជាមួយអាប់រ៉ាម។ សម្ពន្ធមេត្រី គឺជាការយល់ព្រមរវាងពីរភាគី។ ព្រះមានបន្ទូលថា៖ <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>“</font> យើងនឹងប្រទានកូនប្រុសម្នាក់ដែលកើតចេញពីសាច់ឈាមរបស់អ្នក។ យើងប្រគល់ស្រុកកាណានដល់ពូជពង្សរបស់អ្នក<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>”</font> ។ ប៉ុន្តែអាប់រ៉ាមនៅតែមិនទាន់មានកូនមួយនៅឡើយទេ។
 
 //A Bible story from: Genesis 11-15//
-
-
