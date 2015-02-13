@@ -1,75 +1,51 @@
-====== 10. The Ten Plagues ======
+====== 10. គ្រោះកាចទាំងដប់ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?direct&}}
 
-Moses and Aaron went to Pharaoh. They said, "This is what the God of Israel says, 'Let my people go!'" Pharaoh did not listen to them. Instead of letting the Israelites go free, he forced them to work even harder! 
+ម៉ូសេ<font inherit/inherit;;inherit;;inherit></font> និងអើរ៉ុនទៅជួបផារ៉ោន។<font inherit/inherit;;inherit;;inherit></font> ពួកគេប្រាប់ថា៖<font inherit/inherit;;inherit;;inherit></font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នេះជាអ្វីដែលព្រះនៃអ៊ីស្រាអែលមានបន្ទូល:</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>‘</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចូរឲ្យប្រជារាស្ត្ររបស់យើងចេញទៅ!</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>’ ”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។ ផារ៉ោនមិនបានស្ដាប់ពួកគេឡើយ។ ជំនួសឲ្យការអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញទៅដោយសេរី</font> ផារ៉ោនបានបង្ខំពួកគេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឲ្យ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ធ្វើការកាន់តែធ្ងន់</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>!</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ផារ៉ោននៅតែបន្ដបដិសេធមិនឲ្យចាកចេញ ដូច្នេះព្រះបានដាក់គ្រោះកាចដ៏សាហាវដប់យ៉ាងលើអេស៊ីព្ទ។</font> តាមរយៈគ្រោះកាចទាំងនេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានបង្ហាញផារ៉ោនថាព្រះអង្គមានឫទ្ធិអំណាចខ្លាំងជាងផារ៉ោន និងជាងអស់ទាំងព្រះរបស់អេស៊ីព្ទ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?direct&}}
 
-Pharaoh kept refusing to let the people go, so God sent ten terrible plagues on Egypt. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានធ្វើឲ្យទន្លេនីលក្លាយទៅជាឈាម ប៉ុន្តែផារ៉ោននៅតែមិនអនុញ្ញាតឲ្យអ៊ីស្រាអែលចេញទៅ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានដាក់ឲ្យមានកង្កែបលើអេស៊ីព្ទទាំងមូល។ ផារ៉ោនបានអង្វរម៉ូសេឲ្យយកកង្កែបចេញ។ ប៉ុន្តែក្រោយពីកង្កែបទាំងអស់ងាប់ ផារ៉ោនរឹតតែមានចិត្តរឹងរូស ហើយមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញពីអេស៊ីព្ទឡើយ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?direct&}}
 
-God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
+ព្រះក៏ដាក់ឲ្យមានមមង់។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> បន្ទាប់មកទៀត<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះអង្គដាក់ឲ្យមានរុយ។</font> ផារ៉ោនបានហៅម៉ូសេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> និងអើរ៉ុនមក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ហើយប្រាប់ពួកគេថា</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បើ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>សិនពួកគេបញ្ឈប់ឲ្យមានគ្រោះកាច អ៊ីស្រាអែលអាចចាកចេញពីអេស៊ីព្ទបាន។</font> នៅពេលម៉ូសេអធិស្ឋាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះក៏ដកសត្វរុយទាំងអស់ចេញពីអេស៊ីព្ទ។ ប៉ុន្តែផារ៉ោនរឹងរឹតតែមានចិត្តរឹងរូស ហើយមិនអនុញ្ញាតឲ្យចេញទៅដោយសេរីឡើយ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?direct&}}
 
+បន្ទាប់មក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានធ្វើឲ្យសត្វស្រុកទាំងអស់ដែលជារបស់ជនជាតិអេស៊ីព្ទឈឺងាប់។ ប៉ុន្តែចិត្តរបស់ផារ៉ោននៅតែរឹងរូស គឺផារ៉ោនមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញឡើយ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?direct&}}
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites leave Egypt.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>រួចព្រះបានប្រាប់ម៉ូសេឲ្យបាចផេះឡើងទៅលើនៅចំពោះផារ៉ោន។</font> នៅពេលម៉ូសេធ្វើដូច្នេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ជនជាតិអេស៊ីព្ទក៏កើតមានបូសលើដងខ្លួន</font> ប៉ុន្តែ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ជនជាតិ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អ៊ីស្រាអែលមិនមានបូសទេ។ ព្រះធ្វើឲ្យចិត្តរបស់ផារ៉ោនរឹងរូស ដូច្នេះផារ៉ោនមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញដោយសេរីឡើយ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?direct&}}
 
+ក្រោយមកទៀត<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានធ្វើឲ្យមានព្រិល ដើម្បីបំផ្លាញដំណាំនៅអេស៊ីព្ទ ហើយសម្លាប់អ្នកណាដែលចេញទៅខាងក្រៅ។</font> ផារ៉ោនបានហៅម៉ូសេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> និងអើរ៉ុនមកប្រាប់ថា៖<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>“</font> យើងបានប្រព្រឹត្តបាប។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> អ្នករាល់គ្នាអាចទៅបាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font> នោះម៉ូសេអធិស្ឋាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ហើយព្រិលក៏ឈប់ធ្លាក់ពីលើមេឃ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?direct&}}
 
-So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh called Moses and Aaron and told them that if they stopped the plague, the Israelites could leave Egypt. When Moses prayed, God removed all the flies from Egypt. But Pharaoh hardened his heart and would not let the people go free.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ប៉ុន្តែផារ៉ោនបានប្រព្រឹត្តបាបទៀត ហើយចិត្តរបស់ទ្រង់នៅតែរឹងរូស គឺមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចេញទៅដោយសេរីឡើយ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?direct&}}
 
+ដូច្នេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះធ្វើឲ្យមានហ្វូងកណ្ដូបគ្របដណ្ដប់លើអេស៊ីព្ទ។ កណ្ដូបទាំងនេះបានស៊ីដំណាំទាំងអស់ដែលនៅសេសសល់ពីព្រិលបំផ្លាញ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?direct&}}
 
-Next, God caused all the farm animals that belonged to the Egyptians to get sick and die. But Pharaoh's heart was hardened, and he would not let the Israelites go.
+បន្ទាប់មក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះធ្វើឲ្យមានភាពងងឹតអន្ធការបីថ្ងៃ គឺងងឹតខ្លាំងរហូតជនជាតិអេស៊ីព្ទមិនអាចចេញពីផ្ទះបាន។ ប៉ុន្តែកន្លែងដែលជនជាតិអ៊ីស្រាអែលរស់នៅមានពន្លឺ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ទោះបីជាមានគ្រោះកាចទាំងប្រាំបួននេះកើតឡើងក៏ដោយ ផារ៉ោននៅតែបដិសេធមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញដោយសេរីឡើយ។ ដោយសារតែផារ៉ោនមិនព្រមស្ដាប់ ព្រះបានរៀបគម្រោងការដាក់ឲ្យមានគ្រោះកាចចុងក្រោយមួយទៀត។ គ្រោះកាចនេះនឹងផ្លាស់ប្ដូរចិត្តគំនិតរបស់ផារ៉ោន។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg}}
-
-Then God told Moses to throw ashes into the air in front of Pharaoh. When he did, painful skin sores appeared on the Egyptians, but not on the Israelites. God hardened Pharaoh's heart, and Pharaoh would not let the Israelites go free.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg}}
-
-After that, God sent hail that destroyed most of the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, "I have sinned. You may go." So Moses prayed, and the hail stopped falling from the sky.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg}}
-
-But Pharaoh sinned again and hardened his heart. He would not let the Israelites go free.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg}}
-
-So God caused swarms of locusts to come over Egypt. These locusts ate all the crops that the hail had not destroyed.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg}}
-
-Then God sent darkness that lasted for three days. It was so dark that the Egyptians could not leave their houses. But there was light where the Israelites lived.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg}}
-
-Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh's mind.
-
-//A Bible story from: Exodus 5-10//
-
-
+//រឿងព្រះគម្ពីរ ដក់ស្រង់ពី: និក្ខមនំ 5-10//
