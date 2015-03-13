@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?direct&}}
 
-ម៉ូសេ<font inherit/inherit;;inherit;;inherit></font> និងអើរ៉ុនទៅជួបផារ៉ោន។<font inherit/inherit;;inherit;;inherit></font> ពួកគេប្រាប់ថា៖<font inherit/inherit;;inherit;;inherit></font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នេះជាអ្វីដែលព្រះនៃអ៊ីស្រាអែលមានបន្ទូល:</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>‘</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចូរឲ្យប្រជារាស្ត្ររបស់យើងចេញទៅ!</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>’ ”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។ ផារ៉ោនមិនបានស្ដាប់ពួកគេឡើយ។ ជំនួសឲ្យការអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញទៅដោយសេរី</font> ផារ៉ោនបានបង្ខំពួកគេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឲ្យ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ធ្វើការកាន់តែធ្ងន់</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>!</font>
+ម៉ូសេ និងអើរ៉ុនទៅជួបផារ៉ោន។ ពួកគេប្រាប់ថា៖ <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នេះជាអ្វីដែលព្រះនៃអ៊ីស្រាអែលមានបន្ទូល:</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>‘</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចូរឲ្យប្រជារាស្ត្ររបស់យើងចេញទៅ!</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>’ ”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។ ផារ៉ោនមិនបានស្ដាប់ពួកគេឡើយ។ ជំនួសឲ្យការអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញទៅដោយសេរី</font> ផារ៉ោនបានបង្ខំពួកគេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឲ្យ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ធ្វើការកាន់តែធ្ងន់</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>!</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?direct&}}
 
@@ -30,7 +30,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?direct&}}
 
-ក្រោយមកទៀត<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានធ្វើឲ្យមានព្រិល ដើម្បីបំផ្លាញដំណាំនៅអេស៊ីព្ទ ហើយសម្លាប់អ្នកណាដែលចេញទៅខាងក្រៅ។</font> ផារ៉ោនបានហៅម៉ូសេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> និងអើរ៉ុនមកប្រាប់ថា៖<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>“</font> យើងបានប្រព្រឹត្តបាប។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> អ្នករាល់គ្នាអាចទៅបាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font> នោះម៉ូសេអធិស្ឋាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ហើយព្រិលក៏ឈប់ធ្លាក់ពីលើមេឃ។</font>
+ក្រោយមកទៀតព្រះបានធ្វើឲ្យមានព្រិល ដើម្បីបំផ្លាញដំណាំនៅអេស៊ីព្ទ ហើយសម្លាប់អ្នកណាដែលចេញទៅខាងក្រៅ។ ផារ៉ោនបានហៅម៉ូសេនិងអើរ៉ុនមកប្រាប់ថា៖ “យើងបានប្រព្រឹត្តបាប។  អ្នករាល់គ្នាអាចទៅបាន”។ នោះម៉ូសេអធិស្ឋាន ហើយព្រិលក៏ឈប់ធ្លាក់ពីលើមេឃ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?direct&}}
 
@@ -38,14 +38,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?direct&}}
 
-ដូច្នេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះធ្វើឲ្យមានហ្វូងកណ្ដូបគ្របដណ្ដប់លើអេស៊ីព្ទ។ កណ្ដូបទាំងនេះបានស៊ីដំណាំទាំងអស់ដែលនៅសេសសល់ពីព្រិលបំផ្លាញ។</font>
+ដូច្នេះព្រះធ្វើឲ្យមានហ្វូងកណ្ដូបគ្របដណ្ដប់លើអេស៊ីព្ទ។ កណ្ដូបទាំងនេះបានស៊ីដំណាំទាំងអស់ដែលនៅសេសសល់ពីព្រិលបំផ្លាញ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?direct&}}
 
-បន្ទាប់មក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះធ្វើឲ្យមានភាពងងឹតអន្ធការបីថ្ងៃ គឺងងឹតខ្លាំងរហូតជនជាតិអេស៊ីព្ទមិនអាចចេញពីផ្ទះបាន។ ប៉ុន្តែកន្លែងដែលជនជាតិអ៊ីស្រាអែលរស់នៅមានពន្លឺ។</font>
+បន្ទាប់មក ព្រះធ្វើឲ្យមានភាពងងឹតអន្ធការបីថ្ងៃ គឺងងឹតខ្លាំងរហូតជនជាតិអេស៊ីព្ទមិនអាចចេញពីផ្ទះបាន។ ប៉ុន្តែកន្លែងដែលជនជាតិអ៊ីស្រាអែលរស់នៅមានពន្លឺ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ទោះបីជាមានគ្រោះកាចទាំងប្រាំបួននេះកើតឡើងក៏ដោយ ផារ៉ោននៅតែបដិសេធមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញដោយសេរីឡើយ។ ដោយសារតែផារ៉ោនមិនព្រមស្ដាប់ ព្រះបានរៀបគម្រោងការដាក់ឲ្យមានគ្រោះកាចចុងក្រោយមួយទៀត។ គ្រោះកាចនេះនឹងផ្លាស់ប្ដូរចិត្តគំនិតរបស់ផារ៉ោន។</font>
+ទោះបីជាមានគ្រោះកាចទាំងប្រាំបួននេះកើតឡើងក៏ដោយ ផារ៉ោននៅតែបដិសេធមិនអនុញ្ញាតឲ្យជនជាតិអ៊ីស្រាអែលចាកចេញដោយសេរីឡើយ។ ដោយសារតែផារ៉ោនមិនព្រមស្ដាប់ ព្រះបានរៀបគម្រោងការដាក់ឲ្យមានគ្រោះកាចចុងក្រោយមួយទៀត។ គ្រោះកាចនេះនឹងផ្លាស់ប្ដូរចិត្តគំនិតរបស់ផារ៉ោន<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>៕</font>
 
 //រឿងព្រះគម្ពីរ ដក់ស្រង់ពី: និក្ខមនំ 5-10//
