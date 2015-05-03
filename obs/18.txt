@@ -18,11 +18,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?direct&}}
 
-ក្រោយពីសាឡូម៉ូនស្លាប់<font inherit/inherit;;inherit;;inherit>រេហូបោមជាកូនប្រុសរបស់គាត់បានឡើងធ្វើជាស្ដេច។</font> រេហូបោមជាមនុស្សល្ងង់។<font inherit/inherit;;inherit;;inherit>ប្រជាជនទាំងអស់ក្នុងប្រជាជាតិអ៊ីស្រាអែលបានមកជុំគ្នា ដើម្បីគាំទ្រគាត់ឲ្យធ្វើជាស្ដេច។ ពួកគេរអ៊ូរទាំនឹងរេហូបោមថាសាឡូម៉ូនបានឲ្យពួកគេធ្វើការលំបាកៗច្រើន</font> ហើយយកពន្ធច្រើនទៀត។
+ក្រោយពីសាឡូម៉ូនស្លាប់<font inherit/inherit;;inherit;;inherit>រេហូបោមជាកូនប្រុសរបស់គាត់បានឡើងធ្វើជាស្ដេច។</font>    រេហូបោមជាមនុស្សល្ងង់។<font inherit/inherit;;inherit;;inherit>ប្រជាជនទាំងអស់ក្នុងប្រជាជាតិអ៊ីស្រាអែលបានមកជុំគ្នា ដើម្បីគាំទ្រគាត់ឲ្យធ្វើជាស្ដេច។ ពួកគេរអ៊ូរទាំនឹងរេហូបោមថាសាឡូម៉ូនបានឲ្យពួកគេធ្វើការលំបាកៗច្រើន</font>    ហើយយកពន្ធច្រើនទៀត។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>រេហូបោមឆ្លើយនឹងពួកគេទាំងងងឹតងងល់ថា៖</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អ្នករាល់គ្នាគិតថាសាឡូម៉ូនជាឪពុករបស់យើងឲ្យអ្នករាល់គ្នាធ្វើការលំបាក ប៉ុន្តែយើងនឹងឲ្យអ្នករាល់គ្នាធ្វើការកាន់តែលំបាកលើសជាងឪពុកយើង ហើយយើងនឹងដាក់ទោសអ្នករាល់គ្នាកាន់តែធ្ងន់ជាងឪពុកយើង</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+<font inherit/inherit;;inherit;;inherit>រេហូបោមឆ្លើយនឹងពួកគេទាំងងងឹតងងល់ថា៖</font>    <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អ្នករាល់គ្នាគិតថាសាឡូម៉ូនជាឪពុករបស់យើងឲ្យអ្នករាល់គ្នាធ្វើការលំបាក ប៉ុន្តែយើងនឹងឲ្យអ្នករាល់គ្នាធ្វើការកាន់តែលំបាកលើសជាងឪពុកយើង ហើយយើងនឹងដាក់ទោសអ្នករាល់គ្នាកាន់តែធ្ងន់ជាងឪពុកយើង</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?direct&}}
 
@@ -42,20 +42,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?direct&}}
 
-In the new kingdom of Israel, all the kings were evil. Many of these kings were killed by other Israelites who wanted to become king in their place.
-
-នៅក្នុងអាណាចក្រថ្មីរបស់អ៊ីស្រាអែល ស្ដេចទាំងអស់សុទ្ធតែអាក្រក់។ ស្ដេចជាច្រើនក្នុងចំណោមស្ដេចទាំងនេះត្រូវសម្លាប់ដោយពួកអ៊ីស្រាអែលណាដែលចង់ឡើងធ្វើជាស្ដេចនៅអាណាចក្រនេះ។
+<font inherit/inherit;;inherit;;inherit>នៅក្នុងអាណាចក្រថ្មីរបស់អ៊ីស្រាអែល ស្ដេចទាំងអស់សុទ្ធតែអាក្រក់។ ស្ដេចជាច្រើនក្នុងចំណោមស្ដេចទាំងនេះ ត្រូវពួកអ៊ីស្រាអែលផ្សេងដែលចង់ឡើងធ្វើជាស្ដេចសម្លាប់។</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?direct&}}
 
-All of the kings and most of the people of the kingdom of Israel worshiped idols. Their idol worship often included sexual immorality and sometimes even child sacrifice.
-
-ស្ដេចទាំងអស់ និងប្រជាជនក្នុងអាណាចក្រស្ទើរតែទាំងអស់របស់អ៊ីស្រាអែលថ្វាយបង្គំរូបសំណាក។ ការថ្វាយបង្គំរូបសំណាករបស់ពួកគេជាញឹកញយ រួមមានទាំងអំពើអនាចារ និងជួនកាលមានទាំងការបូជាកូនក្មេងផង។
+ស្ដេចទាំងអស់<font inherit/inherit;;inherit;;inherit>និងប្រជាជនភាគច្រើនរបស់អ៊ីស្រាអែលថ្វាយបង្គំរូបសំណាក។ ការថ្វាយបង្គំរូបសំណាករបស់ពួកគេ</font> តែងតែមានអំពើអនាចារ<font inherit/inherit;;inherit;;inherit>និងជួនកាលមានទាំងការបូជាកូនក្មេងផង។</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?direct&}}
 
 The kings of Judah were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false gods. Most of the people of Judah also rebelled against God and worshiped other gods.
 
-ស្ដេចឡាយរបស់យូដាជាពូជពង្សរបស់ដាវីឌ។ ស្ដេចខ្លះក្នុងចំណោមស្ដេចទាំងនេះជាស្ដេចល្អ ដែលគ្រប់គ្រងយ៉ាងត្រឹមត្រូវ ហើយថ្វាយបង្គំព្រះ។ ប៉ុន្តែស្ដេចយូដាភាគច្រើនជាស្ដេចអាក្រក់ ខិលខូច ហើយថ្វាយបង្គំរូបសំណាក។ ស្ដេចខ្លះថែមទាំងបានបូជាកូនរបស់ពួកគេដល់ព្រះក្លែងក្លាយទាំងនោះទៀត។ ប្រជាជនស្ទើរតែទាំងអស់ក្នុងយូដាក៏បះបោរប្រឆាំងនឹងព្រះ និងថ្វាយបង្គំព្រះដទៃដែរ។
+ស្ដេចទាំងឡាយរបស់យូដាជាពូជពង្សរបស់ដាវីឌ។ ស្ដេចខ្លះក្នុងចំណោមស្ដេចទាំងនេះជាស្ដេចល្អ ដែលគ្រប់គ្រងយ៉ាងត្រឹមត្រូវ ហើយថ្វាយបង្គំព្រះ។ ប៉ុន្តែស្ដេចយូដាភាគច្រើនជាស្ដេចអាក្រក់ ខិលខូច ហើយថ្វាយបង្គំរូបសំណាក។ ស្ដេចខ្លះថែមទាំងបានបូជាកូនរបស់ពួកគេដល់ព្រះក្លែងក្លាយទាំងនោះទៀត។ ប្រជាជនភាគច្រើនក្នុងយូដាក៏បះបោរប្រឆាំងនឹងព្រះ និងថ្វាយបង្គំព្រះដទៃដែរ។
 
 //រឿងព្រះគម្ពីរ ដកស្រង់ពី​: 1 ពង្សាវតារក្សត្រ​ 1-6; 11-12//
