@@ -1,81 +1,55 @@
-====== 15. The Promised Land ======
+====== 15. ទឹកដីសន្យា ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?direct&}}
 
-At last it was time for the Israelites to enter Canaan, the Promised Land. Joshua sent two spies to the Canaanite city of Jericho that was protected by strong walls. In that city there lived a prostitute named Rahab who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect Rahab and her family when the Israelites would destroy Jericho. 
+<font inherit/inherit;;inherit;;inherit>ទីបំផុតដល់ពេលដែលជនជាតិអ៊ីស្រាអែលចូលកាណាន</font> ជាទឹកដីសន្យា។<font inherit/inherit;;inherit;;inherit>យ៉ូស្វេបានចាត់អ្នកស៊ើបការណ៍ពីរនាក់ទៅទីក្រុង</font> <font inherit/inherit;;inherit;;inherit>យេរីខូរបស់ជនជាតិ</font> <font inherit/inherit;;inherit;;inherit>កាណានដែលត្រូវបានការពារដោយកំពែងរឹងមាំ។ នៅក្នុងទីក្រុងនោះមានស្រីពេស្យាម្នាក់ឈ្មោះរ៉ាហាបដែលបានលាក់ពួកអ្នកស៊ើបការណ៍ ហើយក្រោយមកជួយពួកគេឲ្យរត់គេច។</font> នាងបានធ្វើដូច្នេះ<font inherit/inherit;;inherit;;inherit></font> ពីព្រោះនាងជឿលើព្រះ។<font inherit/inherit;;inherit;;inherit>ពួកគេសន្យាថានឹងការពាររ៉ាហាប</font> និងគ្រួសាររបស់នាង<font inherit/inherit;;inherit;;inherit>នៅពេលជនជាតិអ៊ីស្រាអែលបំផ្លាញយេរីខូ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?direct&}}
 
+<font inherit/inherit;;inherit;;inherit>ជនជាតិអ៊ីស្រាអែលត្រូវឆ្លងកាត់ទន្លេយ័រដាន់ដើម្បីចូលក្នុងទឹកដីសន្យា។ ព្រះបានប្រាប់យ៉ូស្វេថា៖</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចូរឲ្យពួកបូជាចារ្យទៅមុន</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។ នៅពេលពួកបូជាចារ្យចាប់ផ្ដើមបោះជំហានចូលទន្លេយ័រដាន់ ស្រាប់តែទឹកដែលហូរចុះពីលើក៏ឈប់ ដូច្នេះជនជាតិអ៊ីស្រាអែលអាចដើរលើដីគោកឆ្លងទៅត្រើយម្ខាងទន្លេបាន។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?direct&}}
 
-The Israelites had to cross the Jordan River to enter into the Promised Land. God told Joshua, "Have the priests go first." When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បន្ទាប់ពីពួកគេឆ្លងទន្លេយ័រដាន់ ព្រះបានប្រាប់យ៉ូស្វេពីរបៀបវាយទីក្រុងដ៏រឹងមាំរបស់យេរីខូ។ ប្រជាជនស្ដាប់បង្គាប់ព្រះ។ ដូចដែលព្រះបានប្រាប់ពួកគេឲ្យធ្វើ</font> ពួកទាហាន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>និងពួកបូជាចារ្យបានដើរជុំវិញទីក្រុងយេរីខូមួយថ្ងៃមួយជុំ ក្នុងរយៈពេលប្រាំមួយថ្ងៃ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg?direct&}}
 
+រួចនៅថ្ងៃទីប្រាំពីរ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ជនជាតិអ៊ីស្រាអែលដើរជុំវិញទីក្រុងប្រាំពីរជុំ។ ខណៈដែលពួកគេដើរជុំវិញទីក្រុងនៅជុំចុងក្រោយ</font> ពួកទាហានស្រែក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>រីឯពួកបូជាចារ្យក៏ផ្លុំត្រែរបស់ពួកគេ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?direct&}}
 
-After the people crossed the Jordan River, God told Joshua how to attack the powerful city of Jericho. The people obeyed God. Just as God told them to do, the soldiers and priests marched around the city of Jericho once a day for six days.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នោះកំពែងជុំវិញយេរីខូក៏រំលំ! ជនជាតិអ៊ីស្រាអែលបានបំផ្លាញអ្វីៗទាំងអស់នៅក្នុងទីក្រុងដូចដែលព្រះបានបញ្ជា</font> គឺទុកតែរ៉ាហាប<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>និងគ្រួសាររបស់នាងប៉ុណ្ណោះ ដែលបានក្លាយជាគ្នារបស់ជនជាតិអ៊ីស្រាអែល។ នៅពេលប្រជាជនផ្សេងទៀតដែលរស់នៅកាណានបានឮថា ជនជាតិអ៊ីស្រាអែលបំផ្លាញយេរីខូ ពួកគេភ័យខ្លាចថាជនជាតិអ៊ីស្រាអែលនឹងមកវាយប្រហារពួកគេដែរ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានបង្គាប់ជនជាតិអ៊ីស្រាអែលមិនឲ្យ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចងមេត្រី</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ជាមួយក្រុមប្រជាជនណាមួយនៅកាណានឡើយ។ ប៉ុន្តែមានប្រជាជានកាណានមួយក្រុម</font> ឈ្មោះពួកគីបៀន<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> បានកុហកយ៉ូស្វេថា<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ពួកគេមកពីកន្លែងមួយដែលឆ្ងាយពីកាណាន។ ពួកគេសូមយ៉ូស្វេឲ្យ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចងមេត្រី</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ជាមួយពួកគេ។</font> យ៉ូស្វេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>និងប្រជាជានអ៊ីស្រាអែលមិនបានទូលសួរព្រះថាពួកគីបៀនមកពីណាទេ។</font> ដូច្នេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>យ៉ូស្វេបានចងមេត្រីជាមួយពួកគេ។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?direct&}}
 
-Then on the seventh day, the Israelites marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew their trumpets.
+ជនជាតិអ៊ីស្រាអែលក៏ខឹង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នៅពេលដឹងថាពួកគីបៀនបោកបញ្ឆោតពួកគេ ប៉ុន្តែពួកគេរក្សាចំណងមេត្រីដែលពួកគេបានចង ពីព្រោះវាជាសេចក្ដីសន្យានៅចំពោះព្រះ។</font> មួយរយៈក្រោយមក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ពួកស្ដេចរបស់ក្រុមប្រជាជនផ្សេងទៀតនៅកាណាន</font> គឺពួកអាម៉ូរី<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឮថាពួកគីបៀនចងមេត្រីជាមួយអ៊ីស្រាអែល ដូច្នេះពួកគេក៏រួមកងទ័ពនានារបស់ពួកគេជាកងទ័ពធំមួយមកវាយប្រហារគីបៀន។ ពួកគីបៀនបានបញ្ជូនសារទៅយ៉ូស្វេសូមជំនួយ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>យ៉ូស្វេក៏ប្រមូលកងទ័ពអ៊ីស្រាអែលធ្វើដំណើរទៅទាំងយប់រហូតទៅដល់គីបៀន។</font> នៅពេលព្រឹកព្រលឹង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ពួកគេធ្វើ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឲ្យកងទ័ពអាម៉ូរី</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ភ្ញាក់ផ្អើល ហើយពួកគេវាយប្រហារ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>កងទ័ពអាម៉ូរី</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-09.jpg?direct&}}
 
-Then the walls around Jericho fell down! The Israelites destroyed everything in the city as God had commanded. They only spared Rahab and her family, who became part of the Israelites. When the other people living in Canaan heard that the Israelites had destroyed Jericho, they were terrified that the Israelites would attack them also.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះច្បាំងជំនួសអ៊ីស្រាអែលនៅថ្ងៃនោះ។</font> ព្រះអង្គធ្វើ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឲ្យ</font> ពួកអាម៉ូរីច្រលំ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ហើយ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះអង្គ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ទម្លាប់ព្រិលថ្មធំៗដើម្បីសម្លាប់ពួកអាម៉ូរីជាច្រើន។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះក៏ធ្វើឲ្យព្រះអាទិត្យឈប់នៅមួយកន្លែងលើមេឃ ដើម្បីឲ្យអ៊ីស្រាអែលមានពេលគ្រប់គ្រាន់ល្មមសម្រាប់វាយប្រហារពួកអាម៉ូរីទាំងស្រុង។</font> នៅថ្ងៃនោះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះប្រទានជ័យជម្នះដ៏ធំ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ដល់ជនជាតិ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អ៊ីស្រាអែល។</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg?direct&}}
 
-God had commanded the Israelites not to make a peace treaty with any of the people groups in Canaan. But one of the Canaanite people groups, called the Gibeonites, lied to Joshua and said they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the Israelites did not ask God where the Gibeonites were from. So Joshua made a peace treaty with them.
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ក្រោយពីព្រះវាយប្រហារខ្មាំងសត្រូវទាំងនោះ ក្រុមប្រជាជនកាណានជាច្រើនផ្សេងទៀតបានប្រមូលគ្នាមកវាយប្រហារអ៊ីស្រាអែល។</font> យ៉ូស្វេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>និងពួកអ៊ីស្រាអែលបានវាយបំផ្លាញពួកគេវិញ។</font>
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg}}
+បន្ទាប់ពីសង្គ្រាមនេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានប្រគល់ទឹកដីសន្យាដល់កុលសម្ព័ន្ធអ៊ីស្រាអែលនីមួយៗតាមចំណែកផ្ទាល់របស់ពួកគេ។ ព្រះបានប្រទានសន្ដិភាពដល់ជនជាតិអ៊ីស្រាអែលតាមព្រំដែនទាំងអស់របស់ពួកគេ។</font>
 
-The Israelites were angry when they found out that the Gibeonites had deceived them, but they kept the peace treaty they had made with them because it was a promise before God. Sometime later, the kings of another people group in Canaan, the Amorites, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked Gibeon. The Gibeonites sent a message to Joshua asking for help.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?direct&}}
 
+<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នៅពេលយ៉ូស្វេមានវ័យចាស់ គាត់បានហៅប្រជាជនអ៊ីស្រាអែលទាំងអស់មកជុំគ្នា។ រួចគាត់រំលឹកប្រជាជនពីកាតព្វកិច្ចរបស់ពួកគេ គឺស្ដាប់បង្គាប់តាមសម្ពន្ធមេត្រីដែលព្រះបានធ្វើជាមួយជនជាតិអ៊ីស្រាអែលនៅស៊ីណៃ។ ប្រជាជនបានសន្យាថានឹងស្មោះត្រង់ចំពោះព្រះ ហើយគោរពក្រឹត្យវិន័យរបស់ព្រះអង្គ។</font>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-08.jpg}}
-
-So Joshua gathered the Israelite army and they marched all night to reach the Gibeonites. In the early morning they surprised the Amorite armies and attacked them.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-09.jpg}}
-
-God fought for Israel that day. He caused the Amorites to be confused and he sent large hailstones that killed many of the Amorites.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-10.jpg}}
-
-God also caused the sun to stay in one place in the sky so that Israel would have enough time to completely defeat the Amorites. On that day, God won a great victory for Israel.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-11.jpg}}
-
-After God defeated those armies, many of the other Canaanite people groups gathered together to attack Israel. Joshua and the Israelites attacked and destroyed them.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg}}
-
-After this battle, God gave each tribe of Israel its own section of the Promised Land. Then God gave Israel peace along all its borders. 
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg}}
-
-When Joshua was an old man, he called all the people of Israel together. Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at Sinai. The people promised to remain faithful to God and follow his laws.
-
-
-//A Bible story from: Joshua 1-24//
-
-
+//រឿងព្រះគម្ពីរ ដកស្រង់ពី​: យ៉ូស្វេ​ 1-24//
