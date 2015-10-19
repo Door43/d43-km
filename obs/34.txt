@@ -1,63 +1,50 @@
-====== 34. Jesus Teaches Other Stories ======
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg}}
-
-Jesus told many other stories about the kingdom of God. For example, he said, "The kingdom of God is like a mustard seed that someone planted in his field. You know that the mustard seed is the smallest seed of all."
 
 
+**៣៤****-ព្រះយេស៊ូវបង្រៀនរឿងផ្សេងទៀត**
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
 
-"But when the mustard seed grows, it becomes the largest of all of the garden plants, big enough that even the birds come and rest in its branches."
+ព្រះយេស៊ូវ មានបន្ទូលជារឿងប្រៀបធៀបផ្សេងៗទៀតជាច្រើន អំពីនគរឋានសួគ៌។ ឧទហរណ៍ ទ្រង់បានមានបន្ទូលថា៖ “នគរឋានសួគ៌ប្រៀបដូចជាគ្រាប់ពូជម្យ៉ាង ដែលមនុស្សម្នាក់ បានយកទៅព្រួសក្នុងចំការខ្លួន។ អ្នករាល់គ្នាដឹងហើយថា គ្រាប់នេះល្អិតជាងគ្រាប់ពូជទាំងអស់ ពិតមែន។”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
 
+“តែកាលណាបានដុះឡើង នោះក៏ធំជាងតិណជាតិទាំងអស់ ហើយក៏ត្រលប់ជាដើមធំ ដល់ម៉្លេះបានជាសត្វហើរលើអាកាស មកទំនៅលើមែកផង”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
 
-Jesus told another story, "The kingdom of God is like yeast that a woman mixes into some bread dough until it spreads throughout the dough."
+ព្រះយេស៊ូវមានបន្ទូលជារឿងប្រៀបធៀបមួយទៀតថា៖ “នគរឋានសួគ៌ប្រៀបដូចជាដំបែ ដែលស្រ្តីម្នាក់បានយកមកលាយនឹងម្សៅ ទាល់តែម្សៅនោះបានដោរឡើងគ្រប់ទាំងអស់”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
 
+“នគរឋានសួគ៌ក៏ប្រៀបដូចជាកំណប់កប់ទុកក្នុងចំការ ដែលកាលណាមនុស្សម្នាក់បាន ឃើញ នោះក៏លាក់ទុក រួចចេញទៅ លក់ទ្រព្យរបស់ខ្លួនទាំងអស់ដោយអំណរ ដើម្បីនឹងទិញចំការ នោះ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
 
-"The kingdom of God is also like treasure that someone hid in a field. Another man found the treasure and then buried it again. He was so filled with joy that he went and sold everything he had and used the money to buy that field."
+“នគរឋានសួគ៌ក៏ប្រៀបដូចជា អ្នកឈ្មួញម្នាក់ ដែលរកកែវមុក្តាយ៉ាងល្អ កាលណាបាន ឃើញមួយ ដែលមានតំលៃណាស់ នោះគាត់ទៅលក់របស់ទ្រព្យទាំងអស់ មកទិញកែវមុក្តានោះ”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
 
+បន្ទាប់មកទៀត ព្រះយេស៊ូវមានបន្ទូលរឿងប្រៀបប្រដូចមួយទៀត ដល់ពួកមនុស្សដែល ទុកចិត្តនឹងខ្លួនគេថា គេសុចរិត ហើយក៏មើលងាយដល់មនុស្សឯទៀតផង។ ទ្រង់មានបន្ទូលថា៖ “មានបុរសពីរនាក់ឡើងទៅអធិដ្ឋានក្នុងព្រះវិហារ មួយជាអាចារ្យផារិស៊ី និងមួយទៀតជាអ្នកយក ពន្ធ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
 
-"The kingdom of God is also like a perfect pearl of great value. When a pearl merchant found it, he sold all that he had and used the money to buy it."
+“អ្នកផារិស៊ីក៏ឈរតាំងអធិដ្ឋានតែម្នាក់ឯងដូច្នេះថា ​​ឱព្រះអង្គអើយ ទូលបង្គំអរព្រះគុណ ដល់ទ្រង់ ព្រោះទូលបង្គំមិនដូចជាមនុស្សឯទៀត ដែលជាមនុស្សប្លន់ ទុច្ចរិត ហើយកំផិត ឬដូចជា អ្នកយកពន្ធនេះទេ”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
 
+“ឧទាហរណ៍ ទូលបង្គំតមក្នុង១អាទិត្យ២ដង ហើយក៏ថ្វាយដង្វាយ១ភាគក្នុង១០ ពីរបស់ ទាំងអម្បាលម៉ានដែលទូលបង្គំបានចំណេញផង”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
 
-Then Jesus told a story to some people who trusted in their own good deeds and despised other people. He said, "Two men went to the Temple to pray. One of them was a tax collector, and the other was a religious leader."
+“ឯអ្នកយកពន្ធគាត់ឈរនៅឆ្ងាយពីពួកផារិស៊ី មិនទាំងងើបមើលទៅលើមេឃផង ក៏គក់ ដើមទ្រូងទូលថា ឱព្រះអង្គអើយ សូមទ្រង់មេត្តាអត់ទោសដល់ទូលបង្គំ ដែលជាអ្នកមានបាបផង”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
 
+នោះព្រះយេស៊ូវមានបន្ទូលថា៖ “ខ្ញុំប្រាប់អ្នកជាប្រាកដថា ព្រះទ្រង់ស្តាប់សេចក្តីអធិដ្ឋាន របស់អ្នកយកពន្ធ ហើយទ្រង់រាប់គេជាសុចរិត តែទ្រង់មិនសព្វព្រះទ័យនឹងសេចក្តីអធិដ្ឋានរបស់ អ្នកផារិស៊ីឡើយ។ ព្រះនឹងបន្ទាបចុះអស់អ្នកណាដែលមានអំនួតនឹងខ្លួនឯង តែទ្រង់នឹង លើកដំកើងដល់អ្នកណាដែលបន្ទាបខ្លួនវិញ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg}}
+អត្ថបទសាច់រឿងនេះដកស្រង់ចេញពីព្រះគម្ពីរបរិសុទ្ធ៖
 
-"The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, adulterers, or even like that tax collector.'"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg}}
-
-"'For example, I fast two times every week and I give you ten percent of all the money and goods that I receive.'"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg}}
-
-"But the tax collector stood far away from the religious leader, and did not even look up to heaven. Instead, he pounded on his chest with his fist and prayed, 'God, please be merciful to me because I am a sinner.'"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg}}
-
-Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the religious leader's prayer. God will humble everyone who is proud, and he will lift up whoever humbles himself."
-
-//A Bible story from: Matthew 13:31-33, 44-46; Mark 4:30-32; Luke 13:18-21; 18:9-14//
-
+  * ម៉ាថាយ ១៣:៣១-៣៣, ៤៤-៤៦
+  * ម៉ាកុស ៤:៣០-៣២
+  * លូកា ១៣:១៨-២១, ១៨:៩-១៤
 
