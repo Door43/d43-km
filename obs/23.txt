@@ -1,12 +1,14 @@
-** ២៣-កំណើតរបស់ព្រះយេស៊ូវគ្រីស្ទ **
+
+
+**២៣-កំណើតរបស់ព្រះយេស៊ូវគ្រីស្ទ **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
 
-Mary was engaged to a righteous man named Joseph. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame Mary, so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a dream.
+នាងម៉ារី បានភ្ជាប់ពាក្យជាមួយបុរសសុចរិតម្នាក់ឈ្មោះ យ៉ូសែប។ នៅពេលលោក យ៉ូសែប បានដឹងថា នាងម៉ារីមានផ្ទៃពោះ គាត់ច្បាស់ក្នុងចិត្តថា មិនមែនជាកូនរបស់គាត់ទេ។ គាត់មិនចង់ធ្វើអោយនាងម៉ារីរងក្តីអាម៉ាស់ឡើយ ទើបគាត់គិតចង់លែងលះនាងដោយស្ងៀមស្ងាត់ វិញ។ មុនពេលដែលគាត់សំរេចនឹងធ្វើដូច្នេះ ទេវតានៃព្រះអម្ចាស់បានលេចមកពន្យល់សប្តិគាត់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
-The angel said, "Joseph, do not be afraid to take Mary as your wife. The baby that is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
+ទេវតាពោលទៅគាត់ថា៖ “យ៉ូសែប ចូរកុំខ្លាចនឹងយកនាងម៉ារីធ្វើជាប្រពន្ធអ្នកអី ដ្បិតបុត្រ ដែលនៅក្នុងផ្ទៃរបស់នាងនោះ មកពីព្រះវិញាណបរិសុទ្ធទេ។ នាងនឹងប្រសូត្របានបុត្រាមួយ ដែលត្រូវថ្វាយព្រះនាមថា យេស៊ូវ​ (មានន័យថា ព្រះសង្គ្រោះ) ពីព្រោះទ្រង់នឹងសង្គ្រោះរាស្រ្តរបស់ ទ្រង់ ចេញពីអំពើបាបរបស់ពួកគេ។”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
 
@@ -41,3 +43,4 @@ Sometime later, wise men from countries far to the east saw an unusual star in t
 When the wise men saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.
 
 //A Bible story from: Matthew 1; Luke 2//
+
