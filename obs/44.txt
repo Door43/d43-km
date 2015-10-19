@@ -1,58 +1,109 @@
-====== 44. Peter and John Heal a Beggar ======
+** ៤៤. លោកពេត្រុស និងលោកយ៉ូហានប្រោសដល់អ្នកសុំទានម្នាក់ឲ្យបានជា **
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?direct&}}
 
-One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money.
+នាថ្ងៃមួយ  លោកពេត្រុស និងលោកយ៉ូហានបាននាំគ្នាឡើងទៅឯព្រះវិហារ។ ពេលដែលទៅ
 
+ជិតដល់ក្លោងទ្វារនៃព្រះវិហារ  ស្រាប់តែពួកគាត់បានឃើញមនុស្សខ្វិនម្នាក់ដែលកំពុងតែ
 
+អង្គុយសុំទាននៅទីនោះ។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?direct&}}
 
-Peter looked at the lame man and said, "I do not have any money to give you. But I will give you what I do have. In the name of Jesus, get up and walk!"
+ដោយបានមើលឃើញបុរសខ្វិននោះហើយ  លោកពេត្រុសក៏បាននិយាយទៅកាន់គាត់ថា៖
 
+“ខ្ញុំគ្មានប្រាក់ដើម្បីឲ្យដល់អ្នកទេ។ ប៉ុន្តែ  ខ្ញុំនឹងឲ្យដល់អ្នកនូវអ្វីដែលខ្ញុំមាន... ក្នុងព្រះនាម
 
+ព្រះយេស៊ូ  ចូរក្រោកឡើង ហើយដើរទៅចុះ!”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?direct&}}
 
-Immediately, God healed the lame man, and he began to walk and jump around, and to praise God. The people in the courtyard of the Temple were amazed.
+          រំពេចនោះ  ព្រះជាម្ចាស់ក៏បានប្រោសព្យាបាលជើងដែលខ្វិនរបស់អ្នកសុំទាននោះ
 
+ហើយគាត់ក៏បានក្រោកឡើង ទាំងចាប់ផ្តើមដើរផង  លោតផងទៅវិញទៅមក  ជាមួយនឹង
 
+ពាក្យសរសើរដំកើងដល់ព្រះដែលបានប្រោសឲ្យគាត់បានជា។ បណ្តាមនុស្សម្នាដែលនៅ
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg}}
+ក្បែរៗនោះមានការភ្ញាក់ផ្អើលជាខ្លាំងជាមួយអ្វីដែលបានកើតឡើងនៅឯព្រះវិហារក្នុងថ្ងៃនោះ។
 
-A crowd of people quickly came to see the man who was healed. Peter said to them, "Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the power of Jesus and the faith that Jesus gives that healed this man."
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?direct&}}
 
+ភ្លាមៗនោះ  មនុស្សមួយហ្វូងធំបាននាំគ្នាមកមើលបុរសដែលត្រូវបានព្រះប្រោសឲ្យជានោះ។
 
+លោកពេត្រុសក៏បាននិយាយទៅពួកគេថា៖ “តើហេតុអ្វីបានអ្នករាល់គ្នាមានការភ្ញាក់ផ្អើល
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg}}
+អំពីភាពដែលបុរសម្នាក់នេះបានជាយ៉ាងដូច្នេះ? ពួកយើងមិនបានប្រោសឲ្យគាត់ជាដោយសារ
 
-"You are the ones who told the Roman governor to kill Jesus. You killed the author of life, but God raised him from the dead. Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would suffer and die. So now, repent and turn to God so that your sins will be washed away."
+តែអំណាច ឬក៏ការល្អផ្ទាល់ខ្លួនរបស់យើងនោះទេ។ ប៉ុន្តែ  ផ្ទុយទៅវិញ  ការនេះគឺជាអំណាច
 
+ចេស្តានៃព្រះយេស៊ូ  ហើយនិងសេចក្តីជំនឿដែលទ្រង់បានប្រទានឲ្យយើងទេតើ  ដែលបាន
 
+ប្រោសព្យាបាលដល់បុរសម្នាក់នេះ។”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?direct&}}
 
-The leaders of the Temple were very upset by what Peter and John were saying. So they arrested them and put them into prison. But many of the people believed Peter's message, and the number of men who believed in Jesus grew to about 5,000.
+“ដែលព្រះយេស៊ូត្រូវបានសុគតនៅក្នុងដៃនៃពួកគ្រប់គ្រងទាហានរ៉ូម៉ាំង  គឺដោយសារតែ
 
+ពួកអ្នករាល់គ្នាហ្នឹងឯង ជាអ្នកដែលស្នើឲ្យពួកគេធ្វើ។ អ្នករាល់គ្នាបានសម្លាប់ព្រះអម្ចាស់
 
+ដែលបានបង្កើតជីវិត  ប៉ុន្តែព្រះទ្រង់បានប្រោសព្រះអង្គឲ្យមានព្រះជន្មរស់ឡើងវិញហើយ។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg}}
+អ្នករាល់គ្នាមិនបានយល់នូវអ្វីដែលអ្នករាល់គ្នាបានធ្វើនោះទេ  ប៉ុន្តែព្រះទ្រង់បានប្រើប្រាស់
 
-The next day, the Jewish leaders brought Peter and John to the high priest and the other religious leaders. They asked Peter and John, "By what power did you heal this crippled man?"
+ទង្វើរបស់អ្នករាល់គ្នានោះឯង  ដើម្បីសម្រេចនូវទំនាយរបស់ព្រះអង្គ ដែលបានចែងទុក
 
+មកថា  ព្រះមេស៊ីនឹងត្រូវរងទុក្ខ  ហើយនឹងសុគតផង។ ដូច្នេះ  ឱ បងប្អូនអើយ  ចូរប្រែចិត្ត
 
+ហើយងាកបែរមករកព្រះជាម្ចាស់នៅពេលឥឡូវនេះចុះ  ដើម្បីឲ្យរាល់ទាំងអំពើបាបរបស់អ្នក
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg}}
+រាល់គ្នាត្រូវបានសំអាតចេញវិញ។”
 
-Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!"
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?direct&}}
 
+ពាក្យរបស់លោកពេត្រុស និងលោកយ៉ូហាននៅពេលនោះបានធ្វើឲ្យពួកអ្នកដឹកនាំនៅក្នុង
 
+ព្រះវិហារមានការរង្គាសចិត្តជាខ្លាំង។ ពួកគេក៏បានចាប់ពួកគាត់ទាំងពីរនាក់  ហើយថែម
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg}}
+ទាំងយកពួកគាត់ទៅដាក់គុកផង ប៉ុន្តែ  មានមនុស្សជាច្រើនបានជឿទៅលើអ្វីដែលលោក
 
-The leaders were shocked that Peter and John spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and John, they let them go.
+ពេត្រុសបាននិយាយ  ហើយចំនួននៃអស់អ្នកដែលបានទទួលជឿលើព្រះយេស៊ូក៏បានកើន
 
+ចំនួនឡើងប្រហែលជា៥០០០នាក់។
 
-//A Bible story from: Acts 3:1-4:22//
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?direct&}}
 
+នៅថ្ងៃបន្ទាប់  ពួកមេដឹកនាំនៃពួកជនជាតិយូដាបាននាំខ្លួនលោកពេត្រុស និងលោក
 
+យ៉ូហានឲ្យទៅជួបជាមួយនឹងសម្តេចសង្ឃ និងពួកអ្នកដឹកនាំសាសនាមួយចំនួនទៀត។
+
+ពួកគេបានចោទសួរទៅកាន់លោកពេត្រុស និងលោកយ៉ូហានថា៖ “តើឯងបានប្រោស
+
+បុរសខ្វិនម្នាក់នោះឲ្យបានជា  ដោយអាងលើអំណាចអ្វី?”
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?direct&}}
+
+លោកពេត្រុសបានឆ្លើយទៅកាន់ពួកគេថា៖ “ដែលបុរសម្នាក់នេះអាចឈរ  ដោយបានជា
+
+ពីជំងឺខ្វិនរបស់គាត់  គឺដោយសារអំណាចនៃព្រះយេស៊ូ  ដែលជាព្រះមេស៊ី។ អ្នករាល់គ្នាបាន
+
+នាំគ្នាឆ្កាងព្រះអង្គ  ក៏ប៉ុន្តែព្រះទ្រង់បានប្រោសព្រះអង្គឲ្យមានជីវិតរស់ឡើងវិញហើយ! អ្នក
+
+រាល់គ្នាបានបដិសេធទ្រង់  ប៉ុន្តែគ្មានផ្លូវឯណាផ្សេងទៀតដែលអាចជួយមនុស្សឲ្យបាននូវ
+
+សេចក្តីសង្រ្គោះ  ក្រៅតែអំពីអំណាចនៃព្រះយេស៊ូនោះឡើយ!”។
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?direct&}}
+
+ជាមួយនឹងការឆ្លើយតបយ៉ាងក្លាហានរបស់លោកពេត្រុស និងលោកយ៉ូហាននេះ  ពួកអ្នក
+
+ដឹកនាំដែលបាននៅទីនោះ  មានការភ្ញាក់ផ្អើលជាខ្លាំង  ពីព្រោះពួកគេដឹងថា លោកពេត្រុស
+
+និងលោកយ៉ូហាន គឺគ្រាន់តែជាមនុស្សសាមញ្ញធម្មតា  ហើយមានចំណេះដឹងតូចទាបប៉ុណ្ណោះ។
+
+ប៉ុន្តែអ្វីដែលពួកគេចងចាំបានយ៉ាងច្បាស់នោះ  គឺថាមនុស្ស២នាក់នេះធ្លាប់បាននៅជាមួយ
+
+នឹងព្រះយេស៊ូ។ ដូច្នេះហើយក្រោយពីពួកគេបានធ្វើការសម្លុតគំរាមលោកពេត្រុស និងលោក
+
+យ៉ូហានរួចមក  ពួកគេក៏ព្រមដោះលែងលោកទាំង២ឲ្យត្រលប់ទៅវិញ។
+
+សាច់រឿងដកស្រង់ចេញពីព្រះគម្ពីរ៖ កិច្ចការ ៣៖១-៤៖២២
