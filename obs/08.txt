@@ -1,63 +1,65 @@
-====== 8. ព្រះសង្គ្រោះយ៉ូសែប និងគ្រួសាររបស់គាត់ ======
+====== ៨. ព្រះជាម្ចាស់សង្គ្រោះយ៉ូសែប និងគ្រួសាររបស់គាត់ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?direct&}}
 
-ច្រើនឆ្នាំក្រោយមក<font inherit/inherit;;inherit;;inherit></font> នៅពេលយ៉ាកុបមានវ័យចាស់<font inherit/inherit;;inherit;;inherit>គាត់បានប្រើកូនសំណប់របស់គាត់ឈ្មោះយ៉ូសែប ឲ្យទៅមើលពួកបងៗដែលកំពុងឃ្វាលហ្វូងសត្វ។</font>
+ជាច្រើនឆ្នាំកន្លងផុតទៅ យ៉ាកុបមានអាយុច្រើនណាស់ហើយ គាត់បានអោយកូនប្រុស សំណព្វរបស់គាត់ យ៉ូសែបទៅមើលបងប្អូនរបស់ខ្លួនដែលកំពុងឃ្វាលហ្វូងសត្វ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ពួកបងៗរបស់យ៉ូសែបស្អប់គាត់ ពីព្រោះឪពុកស្រឡាញ់គាត់ខ្លាំងជាងគេ និងដោយសារយ៉ូសែបបានយល់សប្តិថាគាត់នឹងបានជាអ្នកគ្រប់គ្រងលើពួកគេ។ នៅពេលយ៉ូសែបមកដល់ពួកបងៗ</font> ពួកគេបានចាប់គាត់<font inherit/inherit;;inherit;;inherit>ហើយលក់គាត់ទៅឲ្យពួកឈ្មួញដែលទិញទាសករ។</font>
+បងៗទាំងអស់របស់យ៉ូសែបស្អប់គាត់ជាខ្លាំង ដោយព្រោះឪពុករបស់ខ្លួនស្រលាញ់ យ៉ូសែបជាងគេ ហើយយ៉ូសែបធ្លាប់សុបិន្តឃើញថាគាត់នឹងត្រួតត្រាបងៗរបស់គាត់។ ខណៈយ៉ូសែបបានមកដល់បងៗរបស់គាត់ ពួកគេបានចាប់ពង្រត់និងលក់គាត់ទៅ អោយអ្នកជួញដូរទាសករ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>មុនពេលពួកបងៗរបស់យ៉ូសែបត្រឡប់មកផ្ទះវិញ ពួកគេបានហែកអាវវែងរបស់យ៉ូសែប</font> ហើយជ្រលក់ក្នុងឈាមពពែ។<font inherit/inherit;;inherit;;inherit>រួចពួកគេបង្ហាញអាវវែងនេះដល់ឪពុករបស់ពួកគេ ដើម្បីឲ្យឪពុកគិតថាសត្វសាហាវបានសម្លាប់យ៉ូសែប។ យ៉ាកុបកើតទុក្ខយ៉ាងខ្លាំង។</font>
+មុនពេលបងៗរបស់គាត់បានត្រឡប់មកផ្ទះវិញ ពួកគេហែកអាវរបស់យ៉ូសែប និង ជ្រលក់ទៅក្នុងឈាមពពែ។ ពួកគេបានបង្ហាញអាវនោះទៅឪពុករបស់ខ្លួន​ ដើម្បីអោយ គាត់គិតថា សត្វព្រៃបានសំលាប់យ៉ូសែប។ យ៉ាកុបបានកើតទុក្ខយ៉ាងខ្លាំង។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ពួកឈ្មួញបានយកយ៉ូសែបទៅអេស៊ីព្ទ។</font> អេស៊ីព្ទជាប្រទេសមួយធំ<font inherit/inherit;;inherit;;inherit></font> ហើយខ្លាំង<font inherit/inherit;;inherit;;inherit></font> ស្ថិតនៅតាមដងទន្លេនីល។<font inherit/inherit;;inherit;;inherit>ពួកឈ្មួញបានលក់យ៉ូសែបទុកជាទាសករទៅឲ្យមន្ត្រីមាន</font> <font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ស្ដុកស្តម្ភ</font> ម្នាក់។<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>យ៉ូសែបបានបម្រើចៅហ្វាយរបស់គាត់យ៉ាងល្អ ហើយព្រះប្រទានពរយ៉ូសែប។</font>
+អ្នកជួញដូរទាសករបាននាំយ៉ូសែបទៅប្រទេសអេសីព្ទ។ អេសីព្ទគឺជាប្រទេសមួយ ដែលមានទឹកដីធំ ហើយមានអំណាចខ្លាំង ដែលមានទីតាំងនៅតាមដងទន្លេនីល។ ឈ្មួញបានលក់យ៉ូសែប ទៅអោយមន្រ្តីគ្រប់គ្រងដែលមានទ្រព្យសម្បត្តិស្តុកស្តម្ភម្នាក់ អោយធ្វើជាទាសករ។ ​យ៉ូសែបបានបំរើចៅហ្វាយរបស់ខ្លួនដោយមិនអោយទាស់ចិត្ត​ ហើយព្រះជាម្ចាស់​បានប្រទានពរដល់យ៉ូសែប។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?direct&}}
 
-<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ប្រពន្ធចៅហ្វាយរបស់គាត់ព្យាយាមលួងលោមយ៉ូសែបឲ្យដេកជាមួយ ប៉ុន្តែយ៉ូសែបបដិសេធមិនធ្វើបាបទាស់នឹងព្រះឡើយ។</font> នាងក៏ខឹង<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ហើយបានចោទប្រកាន់យ៉ូសែប ដើម្បីឲ្យគេចាប់យ៉សែបដាក់គុក។ ទោះបីជានៅក្នុងគុកក៏ដោយ យ៉ូសែបនៅតែស្មោះត្រង់នឹងព្រះ ហើយព្រះបានប្រទានពរគាត់។</font>
+ប្រពន្ធរបស់ចៅហ្វាយគាត់បានព្យាយាមរួមដំណេកជាមួយគាត់ ប៉ុន្តែយ៉ូសែបបាន ជំទាស់ទៅអំពើបាបប្រឆាំងទាស់នឹងព្រះតាមវិធីនេះ។ ប្រពន្ធចៅហ្វាយគាត់បានខឹង​និងចោទប្រកាន់ដោយទំលាក់កំហុសទៅលើយ៉ូសែប ដើម្បីអោយគាត់អាច ចាប់ខ្លួននិង បញ្ជូនយ៉ូសែបទៅដាក់គុក។ ទោះជានៅក្នុងគុកយ៉ូសែបនៅ តែមានជំនឿលើ ព្រះអម្ចាស់​ ហើយព្រះបានប្រទានពរដល់គាត់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?direct&}}
 
-ពីរឆ្នាំក្រោយមក<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit></font> យ៉ូសែបនៅតែជាប់គុកដដែល<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ទោះបីជាគាត់គ្មានទោសក៏ដោយ ។</font> នៅយប់មួយ<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ផារ៉ោនជាអ្នកដែលជនជាតិអេស៊ីព្ទហៅថាស្ដេចរបស់ពួកគេ</font> បានយល់សុបិនពីរដង<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ដែល</font> រំខានគាត់យ៉ាងខ្លាំង។<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>គ្មានទីប្រឹក្សាណាម្នាក់របស់គាត់អាចប្រាប់គាត់ពីអត្ថន័យនៃការយល់សុបិននេះបានឡើយ។</font>
+ពីរឆ្នាំក្រោយមក យ៉ូសែបជាប់ក្នុងគុកនៅឡើយ ទោះជាគាត់គ្មានកំហុសក៏ដោយ។ យប់មួយ ផារ៉ោន ដែលប្រជាជនអេសីព្ទបានហៅថាជាស្តេចរបស់ពួកគេ បានយល់ សប្តិឃើញសុបន្តិពីរដែលធើ្វអោយទ្រង់មានកង្វល់យ៉ាងខ្លាំង។ គ្មានអ្នកប្រឹក្សាយោបល់ របស់ទ្រង់ណាម្នាក់អាចបកស្រាយអត្ថន័យ នៃសុបន្តិទាំងនោះបានឡើយ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?direct&}}
 
-<font inherit/Khmer, cursive;;rgb(0, 0, 0) font-family: Khmer, cursive; line-height: normal;;;inherit>ព្រះបានប្រទានឲ្យយ៉ូសែបមានសមត្ថភាពបកស្រាយការយល់សុបិននេះ ដូច្នេះផារ៉ោនបានឲ្យគេនាំយ៉ូសែបពីក្នុងគុកមកជួបគាត់។ យ៉ូសែបបានបកស្រាយការយល់សប្ដិសម្រាប់គាត់ថា៖</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះនឹងឲ្យមានភោគផលយ៉ាងសម្បូណ៌ហូរហៀរក្នុងប្រាំពីរឆ្នាំ ហើយបន្ដដោយទុរ្ភិក្សប្រាំពីរឆ្នាំ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+ព្រះជាម្ចាស់បានប្រទានសមត្ថភាពដល់យ៉ូសែបក្នុងការបកស្រាយសុបន្តិទាំងនោះ ដូច នោះផារ៉ោនបានដោះលែងយ៉ូសែបចេញពីក្នុងគុក។​យ៉ូសែបបានបកស្រាយអត្ថន័យ នៃសុបិន្តសំរាប់ទ្រង់និងបាននិយាយថា «ព្រះជាម្ចាស់នឹងធ្វើអោយមានការប្រមូល​ផល ដ៏សម្បូរសប្បាយរយៈពេលប្រាំពីរឆ្នាំ ក្រោយមកនឹងមានអំណត់រយៈពេលប្រាំពីរឆ្នាំ»​។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ផារ៉ោនពេញចិត្តយ៉ាងខ្លាំងនឹងយ៉ូសែប ក៏តែងតាំងគាត់ឲ្យធ្វើជាអ្នកគ្រប់គ្រងទីពីរនៅក្នុងប្រទេសអេស៊ីព្ទទាំងមូល</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>!</font>
+ផារ៉ោនបានពេញចិត្តនឹងយ៉ូសែបហើយបានតែងតាំងគាត់ជាអ្នកមានអំណាចទី២នៅ ទូទាំងប្រទេសអេសីព្ទ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-09.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>យ៉ូសែបប្រាប់ប្រជាជនឲ្យរក្សាទុក</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ស្បៀងអាហារ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>មួយចំនួនធំអំឡុងពេលមានភោគផលយ៉ាងសម្បូណ៌ហូរហៀរក្នុងប្រាំពីរឆ្នាំ។</font> បន្ទាប់មក យ៉ូសែបលក់<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ស្បៀង</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អាហារដល់ប្រជាជនវិញ នៅពេលទុរ្ភិក្សប្រាំពីរឆ្នាំចូលមកដល់ ដើម្បីឲ្យពួកគេមានស្បៀងអាហារហូប។</font>
+យ៉ូសែបបានបង្គាប់អោយប្រជាជនរក្សាទុកស្បៀងអាហារជាច្រើនកំឡុងពេលប្រាំពីរឆ្នាំដំបូងនៃការប្រមូលផល។ ក្រោយមកយ៉ូសែបបានលក់ស្បៀងអាហារទៅប្រជាជន នៅពេលប្រាំពីរឆ្នាំនៃអំណត់បានមកដល់ ហេតុនោះប្រជាជនមានអាហារគ្រប់គ្រាន់ ដើម្បីបរិភោគ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ទុរ្ភិក្សមិនមានតែនៅអេស៊ីព្ទប៉ុណ្ណោះ កាណានជាកន្លែងដែលយ៉ាកុប និងគ្រួសាររបស់គាត់រស់នៅ</font> ក៏មានទុរ្ភិក្សដែរ។
+អំណត់មានយ៉ាងខ្លាំងមិនត្រឹមតែប្រទេសអេសីព្ទទេ តែបានកើតឡើងនៅទឹកដី កាណានជាកន្លែងយ៉ាកុបនិងគ្រួសាររបស់គាត់បានរស់នៅផងដែរ។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>យ៉ាកុបក៏ចាត់ពួកកូនច្បងឲ្យទៅអេស៊ីព្ទ</font> ដើម្បីទិញស្បៀងអាហារ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ពួកបងៗមិនចំណាំយ៉ូសែបឡើយ នៅពេលពួកគេឈរនៅចំពោះគាត់ ប៉ុន្តែយ៉ូសែបចំណាំពួកគេ។</font>
+ពេលនោះ យ៉ាកុបបានអោយកូនបងៗរបស់គាត់ទៅអេសីព្ទដើម្បីទិញស្បៀងអាហារ។ បងប្រុសរបស់គាត់មិនបានស្គាល់យ៉ូសែបឡើយនៅពេលពួកគេឈរពីមុខគាត់ដើម្បី ទិញអាហារ​ តែយ៉ូសែបស្គាល់ពួកគេយ៉ាងច្បាស់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-12.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បន្ទាប់ពីបានសាកល្បងពួកបងៗរបស់គាត់ដើម្បីឲ្យដឹងថាពួកគាត់ផ្លាស់ប្ដូរហើយឬនៅ យ៉ូសែបក៏និយាយនឹងពួកគេថា៖</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>“</font> ខ្ញុំជា<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>យ៉ូសែប</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> ប្អូនប្រុសរបស់ពួកបង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>!</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> កុំខ្លាចអី។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>ពួកបងបានព្យាយាមធ្វើអាក្រក់នៅពេលលក់ប្អូនឲ្យធ្វើជាទាសករ ប៉ុន្តែព្រះបានប្រើការអាក្រក់ជាការល្អវិញ!</font> សូមមករស់នៅអេស៊ីព្ទ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>ដើម្បីឲ្យប្អូនអាចផ្គត់ផ្គងដល់ពួកបង និងក្រុមគ្រួសាររបស់ពួកបង</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+ក្រោយពីធ្វើការសាកល្បងបងប្រុសរបស់គាត់អោយឃើញថាពួកគេបានផ្លាស់ប្តូរឬអត់ យ៉ូសែបបាននិយាយទៅកាន់ពួកគេថា «ខ្ញុំគឺយ៉ូសែប ជាប្អូនប្រុសរបស់បង សូមកុំភ័យ បារម្ភឡើយ»។ បងបានព្យាយាមធ្វើការអាក្រក់ដោយបានលក់ខ្ញុំទៅជាទាសករ ប៉ុន្តែ ព្រះជាម្ចាស់ប្រើប្រាស់ការអាក្រក់សំរាប់ការល្អ! សូមមករស់នៅក្នុងប្រទេស អេសីព្ទព្រោះខ្ញុំអាចផ្គត់ផ្គង់សំរាប់បងនិងគ្រួសាររបស់យើងបាន។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នៅពេលពួកបងៗរបស់យ៉ូសែបត្រឡប់ទៅផ្ទះវិញ ក៏ប្រាប់យ៉ាកុបជាឪពុករបស់ពួកគេថាយ៉ូសែបនៅរស់នៅឡើយទេ គាត់ក៏សប្បាយចិត្តយ៉ាងខ្លាំង។</font>
+នៅពេលបងប្រុសរបស់យ៉ូសែបបានត្រឡប់មកផ្ទះវិញ ហើយប្រាប់យ៉ាកុបជាឪពុកថា យ៉ូសែបនៅមានជីវិតរស់នៅនៅឡើយ យ៉ាកុបមានចិត្តរំភើបជាខ្លាំង។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ទោះបីជាយ៉ាកុបមានវ័យចាស់ហើយក៏ដោយ គាត់បានមកអេស៊ីព្ទជាមួយក្រុមគ្រួសារទាំងមូលរបស់គាត់ ហើយពួកគេទាំងអស់បានរស់នៅទីនោះ។</font> មុនពេលយ៉ាកុបស្លាប់<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>គាត់បានឲ្យពរដល់កូនម្នាក់ៗ។</font>
+ទោះបីជាយ៉ាកុបចាស់ណាស់ទៅហើយ គាត់់បានធ្វើដំណើរទៅប្រទេសអេសីព្ទជាមួយ សមាជិកគ្រួសារទាំងអស់របស់គាត់​ហើយពួកគេបានរស់នៅប្រទេសអេសីព្ទ។ យ៉ាកុប​ បានអោយពរដល់កូនប្រុសទាំងអស់របស់គាត់មុនពេលគាត់បានស្លាប់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>សម្ពន្ធមេត្រីនៃសេចក្ដីសន្យាដែលព្រះប្រទានឲ្យអប្រាហាំបានបន្ដដល់អ៊ីសាក</font> យ៉ាកុប<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រមទាំងដល់កូនប្រុសទាំងដប់ពីរនាក់របស់យ៉ាកុប និងក្រុមគ្រួសាររបស់ពួកគេ។ ពូជពង្សនៃកូនប្រុសទាំងដប់ពីរបានក្លាយជាកុលសម្ព័ន្ធទាំងដប់ពីររបស់អ៊ីស្រាអែល</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>៕</font>
+សេចក្តីសន្យានៃការតាំងសញ្ញាដែលព្រះជាម្ចាស់បានធ្វើជាមួយអ័ប្រាហាំត្រូវបានបន្តទៅអ៊ីសាក យ៉ាកុប និងបន្ទាប់មកទៀតបានបន្តដល់កូនយ៉ាកុបទាំង១២និងគ្រួសាររបស់ពួកគេ។​ ពួកកូនចៅរបស់កូនប្រុសទាំង១២នេះបានក្លាយជាអំបូរទាំង១២​នៃជន ជាតិអ៊ីស្រាអែល។
 
-//រឿងព្រះគម្ពីរ ដកស្រង់ពី: លោកុប្បត្តិ//// 37-50//
+អត្ថបទសាច់រឿងនេះដកស្រង់ចេញពីព្រះគម្ពីរបរិសុទ្ធ៖
+
+លោកុប្បត្តិ ៣៧-៥០
