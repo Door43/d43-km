@@ -1,57 +1,46 @@
-====== 33. The Story of the Farmer ======
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
-
-One day, Jesus was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
 
 
+**៣៣****-រឿងកសិករម្នាក់**
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
+មានថ្ងៃមួយ ព្រះយេស៊ូវកំពុងបង្រៀនហ្វូងមនុស្សមួយហ្វូងធំ ក្បែរមាត់សមុទ្រ។ មនុស្ស ជាច្រើនណែនណាន់តាន់តាប់ បានមកស្តាប់ព្រះយេស៊ូវ ដល់ម៉្លេះបានជាទ្រង់យាងចុះទៅគង់ក្នុង ទូកឯមាត់ទឹកនោះវិញ ដើម្បីអោយមានកន្លែងល្មមនឹងទ្រង់គង់មានបន្ទូលទៅកាន់ពួកគេបាន។​ ទ្រង់បានគង់នៅក្នុងទូក រួចចាប់ផ្តើមបង្រៀនពួកបណ្តារជន។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
+ព្រះយេស៊ូវមានបន្ទូលអំពីរឿងនេះ៖ “មានកសិករម្នាក់ បានចេញទៅព្រួសពូជរបស់គាត់ កំពុងដែលគាត់ព្រួសនោះ មានខ្លះធ្លាក់ចុះតាមផ្លូវ ហើយសត្វស្លាបក៏ហើរមកចឹកស៊ីអស់ទៅ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-"Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
+“មានខ្លះទៀតធ្លាក់ទៅក្នុងកន្លែងថ្ម ដែលមានដីរាក់ពេក។ គ្រាប់ពូជដែលធ្លាក់លើដីថ្មនោះ ដុះឡើងភ្លាម ប៉ុន្តែមិនអាចចាក់ឫសចូលជ្រៅទៅក្នុងដីបានឡើយ។ កាលណាថ្ងៃរះឡើង  ហើយ ចាប់ផ្តើមក្តៅ នោះក៏ក្រៀមខ្លោច និងងាប់ទៅវិញទៅ​”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
+“គ្រាប់ពូជខ្លះទៀត ក៏បានធ្លាក់ទៅក្នុងគុម្ពបន្លា។ គ្រាប់ពូជនោះចាប់ផ្តើមដុះ ប៉ុន្តែគុម្ពបន្លា ទាំងនោះបានខ្ចប់ពួកគេពីក្រៅជាប់។ ដូចនេះ រុក្ខជាតិដែលបានដុះចេញពីគ្រាប់ពូជ នៅក្នុងគុម្ពបន្លា ពុំអាចបង្កើតផលផ្លែបាន”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-"Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
+“ក៏មានគ្រាប់ពូជខ្លះ បានធ្លាក់ទៅលើដីល្អ។ គ្រាប់ពូជទាំងនោះបានដុះឡើង និងបង្កើត ផលបានមួយជា ៣០ មួយជា ៦០​ និងមួយជា ១០០ កាន់តែច្រើនឡើងៗទៅតាមចំនួន ដែលត្រូវបានសាបព្រោះ។ នរណាដែលមានត្រចៀក ចូរស្តាប់ចុះ!”។
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
+រឿងនេះ បានធ្វើអោយពួកសិស្សមានការភ័ន្តច្រលំ ដូច្នេះព្រះយេស៊ូវពន្យល់ថា៖ “គ្រាប់ ពូជគឺជាព្រះបន្ទូលរបស់ព្រះ។ ដីផ្លូវ គឺជាមនុស្សដែលឮព្រះបន្ទូលរបស់ព្រះ តែមិនយល់ នោះ អាកំណាចក៏មកឆក់យកសេចក្តីដែលបានព្រោះក្នុងចិត្តអ្នកនោះទៅបាត់”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-"Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
+“ដីថ្ម នោះគឺជាអ្នកដែលឮព្រះបន្ទូល រួចទទួលភ្លាមដោយអំណរ ប៉ុន្តែពេលកើតមាន សេចក្តីទុក្ខលំបាក ឬសេចក្តីបៀតបៀន នោះគេក៏រសាយចិត្តទៅ។ ”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
+“ដីបន្លា នោះគឺជាអ្នកដែលឮព្រះបន្ទូល ប៉ុន្តែក្រោយមក សេចក្តីខ្វល់ខ្វាយ ទ្រព្យសម្បត្តិ និងសេចក្តីប៉ងប្រាថ្នានៃជីវិតបានគ្របដណ្តប់សេចក្តីស្រលាញ់ ដែលមានចំពោះព្រះជាម្ចាស់ជិត។ ជាលទ្ធផល សេចក្តីបង្រៀនទាំងអម្បាលម៉ាន ដែលគាត់បានឮ ពុំអាចបង្កើតផលផ្លែបានឡើយ”។
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-This story confused the disciples. So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the devil takes the word away from him."
+“ក៏ប៉ុន្តែដីល្អ គឺជាអ្នកដែលបានឮព្រះបន្ទូល ជឿព្រះបន្ទូល និងបង្កើតផលផ្លែ”។
 
+អត្ថបទសាច់រឿងនេះដកស្រង់ចេញពីព្រះគម្ពីរបរិសុទ្ធ៖
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
-"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
-"The thorny ground is a person who hears God's word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. As a result, the teaching he heard does not produce fruit."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
-"But the good soil is a person who hears the word of God, believes it, and produces fruit."
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
-
+  * ម៉ាថាយ ១៣:១-៨, ១៨-២៣
+  * ម៉ាកុស ៤:១-៨, ១៣-២០
+  * លូកា ៨:៤-១៥
 
