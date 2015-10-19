@@ -4,7 +4,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
 
-នាងម៉ារី បានភ្ជាប់ពាក្យជាមួយបុរសសុចរិតម្នាក់ឈ្មោះ យ៉ូសែប។ នៅពេលលោក យ៉ូសែប បានដឹងថា នាងម៉ារី  មានផ្ទៃពោះ គាត់ច្បាស់ក្នុងចិត្តថា មិនមែនជាកូនរបស់គាត់ទេ។ គាត់មិនចង់ធ្វើអោយនាងម៉ារីរងក្តីអាម៉ាស់ឡើយ ទើបគាត់គិតចង់លែងលះនាងដោយស្ងៀមស្ងាត់ វិញ។ មុនពេលដែលគាត់សំរេចនឹងធ្វើដូច្នេះ ទេវតានៃព្រះអម្ចាស់       បានលេចមកពន្យល់សប្តិគាត់។
+នាងម៉ារី បានភ្ជាប់ពាក្យជាមួយបុរសសុចរិតម្នាក់ឈ្មោះ យ៉ូសែប។ នៅពេលលោក យ៉ូសែប បានដឹងថា នាងម៉ារី  មានផ្ទៃពោះ គាត់ច្បាស់ក្នុងចិត្តថា មិនមែនជាកូនរបស់គាត់ទេ។ គាត់មិនចង់ធ្វើអោយនាងម៉ារីរងក្តីអាម៉ាស់ឡើយ ទើបគាត់គិតចង់លែងលះនាងដោយស្ងៀមស្ងាត់ វិញ។ មុនពេលដែលគាត់សំរេចនឹងធ្វើដូច្នេះ ទេវតានៃព្រះអម្ចាស់     បានលេចមកពន្យល់សប្តិគាត់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
@@ -12,35 +12,38 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
 
-So Joseph married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
+ដូច្នេះលោកយ៉ូសែបបានរៀបការជាមួយនាងម៉ារី និងទទួលនាងមកនៅផ្ទះលោក ក្នុង នាមជាប្រពន្ធ ប៉ុន្តែលោកមិនបានរួមដំណេកជាមួយនឹងនាងឡើយ រហូតទាល់តែបុត្រវិសុទ្ធនោះ បានប្រសូត្ររួចរាល់។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
 
-When the time was near for Mary to give birth, the Roman government told everyone to go for a census to the town where their ancestors had lived. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+ពេលដែលនាងម៉ារីជិតដល់ពេលសំរាលបុត្រ ពួករ៉ូម៉ាំងបានបញ្ជារអោយមនុស្សទាំងអស់ ធ្វើដំណើរទៅឯស្រុកកំណើត ជីដូនជីតាពួកគេរស់នៅរៀងៗខ្លួន ដើម្បីធ្វើការចុះបញ្ជីរ។ លោក យ៉ូសែប និងនាងម៉ារី ត្រូវធ្វើដំណើរយ៉ាងវែងឆ្ងាយពីស្រុកណាសារ៉ែត ឆ្ពោះទៅកាន់ភូមិបេថ្លេហិម ដែលជាភូមិកំណើតនៃបុព្វបុរសរបស់លោក គឺហ្លួងដាវីឌ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
 
-When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus.
+នៅពេលដែលពួកគេមកដល់បេថ្លេហិម ពុំមានកន្លែងសេសសល់សំរាប់ស្នាក់នៅឡើយ លើកតែក្រោលសត្វមួយប៉ុណ្ណោះ។ បុត្រតូចបានប្រសូត្រនៅទីនោះឯង ហើយមាតារបស់ទ្រង់ បានដាក់អោយទ្រង់ផ្ទុំនៅក្នុងស្នូកមួយ ដ្បិតពួកគេពុំមានគ្រែសំរាប់ថ្វាយទ្រង់ផ្ទុំឡើយ។ ពួកគាត់ បានថ្វាយព្រះនាមទ្រង់ថា​ យេស៊ូវ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
 
-That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, "Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!"
+នារាត្រីនោះឯង មានពួកអ្នកគង្វាលចៀមមួយក្រុម កំពុងចាំយាមហ្វូងចៀមរបស់ខ្លួន នៅទីគង្វាលក្បែរកន្លែងបុត្រតូចប្រសូត្រនោះ ស្រាប់តែសិរីល្អនៃទេវតាព្រះអម្ចាស់បានលេចចេញ មកចំពោះពួកគេ បណ្តាលអោយមានសេចក្តីភ័យខ្លាចជាខ្លាំង តែទេវតានោះប្រាប់ថា៖  “កុំខ្លាចអី មើល! ខ្ញុំមកប្រាប់ដំណឹងល្អដល់អ្នករាល់គ្នា គឺព្រះមេស៊ីជាម្ចាស់ ទ្រង់បានប្រសូត្រនៅបេថ្លេហិម ហើយ!”។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
 
-"Go search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough." Suddenly, the skies were filled with angels praising God, saying, "Glory to God in heaven and peace on earth to the people he favors!"
+“ចូរចេញទៅរកបុត្រតូចចុះ នោះអ្នករាល់គ្នានឹងឃើញព្រះឱរសមួយអង្គ រុំនឹងសំពត់ ផ្ទុំក្នុងស្នូកដាក់ចំណីសត្វ” ។ រំពេចនោះ ផ្ទៃមេឃទាំងមូល ពោរពេញដោយពួកពលទេវតា ពោលសរសើរព្រះថា៖ “សួស្តីដល់ ព្រះ នៅឋានដ៏ខ្ពស់បំផុត ហើយសេចក្តីសុខសាន្តនៅផែនដី​ នៅកណ្តាលមនុស្ស ដែលជាទីគាប់ព្រះហរទ័យដល់ទ្រង់!”។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
 
-The shepherds soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. They were very excited. Mary was very happy, too. The shepherds returned to the fields where their sheep were, praising God for all they had heard and seen.
+ពួកអ្នកគង្វាលប្រញាប់រួសរាន់ទៅទីកន្លែងដែលព្រះយេស៊ូវគង់នៅ ហើយក៏បានឃើញ ទ្រង់ផ្ទុំនៅក្នុងស្នូកសត្វ ដូចដែលទេវតានោះបានប្រាប់ប្រាកដមែន។ ពួកគេមានចិត្តរំភើបយ៉ាងខ្លាំង ឯនាងម៉ារី ក៏មានអំណរជាពន់ពេកដែរ។ ពួកអ្នកគង្វាលក៏ថ្វាយបង្គំលាបុត្រតូច ទៅកាន់ទីគង្វាល ហ្វូងចៀមរបស់ពួកគេវិញ ហើយបានច្រៀងសរសើរព្រះ ពីគ្រប់ការដែលពួកគេបានឮ និង បានឃើញ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
 
-Sometime later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews had been born. So, they traveled a great distance to see this king. They came to Bethlehem and found the house where Jesus and his parents were staying.
+ក្រោយពីនោះមិនយូរប៉ុន្មាន មានពួកហោរាពីទិសខាងកើតបានឃើញផ្កាយមួយដ៏ចំលែក នៅលើមេឃ នោះពួកគេដឹងច្បាស់ថា សេ្តចថ្មីនៃសាសន៍យូដាបានប្រសូត្រហើយ។ ដូច្នេះពួកគេ បានរៀបចំធ្វើដំណើរពីទីឆ្ងាយ ដើម្បីនឹងថ្វាយបង្គំទ្រង់។ ពួកគេបានមកដល់ភូមិបេថ្លេហិម និងបាន ឃើញទីកន្លែងដែលព្រះយេស៊ូវ និង បិតាមាតាទ្រង់កំពង់ស្នាក់នៅ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
 
-When the wise men saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.
+ពេលដែលពួកហោរាបានឃើញព្រះយេស៊ូវ និងមាតាទ្រង់ ពួកគេបានក្រាបចុះ និងថ្វាយ បង្គំទ្រង់។ ពួកគេបានថ្វាយដង្វាយដ៏មានតំលៃបំផុត ដល់ព្រះយេស៊ូវ ហើយក៏ក្រាបថ្វាយបង្គំលា ធ្វើដំណើរទៅកាន់ផ្ទះរបស់គេរៀងៗខ្លួន។
 
-//A Bible story from: Matthew 1; Luke 2//
+អត្ថបទសាច់រឿងនេះដកស្រង់ចេញពីព្រះគម្ពីរបរិសុទ្ធ៖
+
+  * ម៉ាថាយ ១
+  * លូកា ២
 
