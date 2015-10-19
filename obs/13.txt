@@ -1,63 +1,85 @@
-====== 13. សម្ពន្ធមេត្រីរបស់ព្រះជាមួយអ៊ីស្រាអែល ======
+១៣ - ការតាំងសញ្ញារបស់ព្រះ ជាមួយ អ៊ីស្រាអែល
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ក្រោយពីព្រះបានដឹកនាំជនជាតិអ៊ីស្រាអែលដើរកាត់សមុទ្រក្រហម ព្រះអង្គបានដឹកនាំពួកគេដើរកាត់វាលរហោស្ថានទៅភ្នំមួយដែលហៅថា</font> ស៊ីណៃ។<font inherit/inherit;;inherit;;inherit>ភ្នំនេះហើយជាភ្នំដែលម៉ូសេបានឃើញគម្ពោតឆេះ។ ប្រជាជនបានដំឡើងរោងរបស់ពួកគេនៅជើងភ្នំនោះ។</font>
+ក្រោយពីព្រះបានដឹកនាំជនជាតិអ៊ីស្រាអែលដើរកាត់សមុទ្រក្រហម ព្រះអង្គបានដឹកនាំពួកគេដើរកាត់វាលរហោស្ថានទៅភ្នំមួយដែលហៅថា    ស៊ីណៃ។ភ្នំនេះហើយជាភ្នំដែលម៉ូសេបានឃើញគម្ពោតឆេះ។ ប្រជាជនបានដំឡើងរោងរបស់ពួកគេនៅជើងភ្នំនោះ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ព្រះបានមានបន្ទូលនឹងម៉ូសេ និងប្រជាជនអ៊ីស្រាអែលថា៖</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ប្រសិនបើអ្នករាល់គ្នានឹងស្ដាប់បង្គាប់យើង ហើយរក្សាសម្ពន្ធមេត្រីរបស់យើង អ្នករាល់គ្នានឹងបានជារបស់មានតម្លៃបំផុតរបស់យើង</font> ជា<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អាណាចក្រនៃ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បូជាចារ្យ និងជាប្រជាជាតិដ៏វិសុទ្ធ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+ព្រះជាម្ចាស់បានមានព្រះបន្ទូលទៅកាន់ម៉ូសេ និង​រាស្ត្រអ៊ីស្រាអែលថា​៖
+
+ “ បើឯងរាល់គ្នានឹងស្តាប់តាមអញ ឥលូវ ហើយកាន់តាមសេចក្តីសញ្ញារបស់អញ នោះឯងរាល់គ្នានឹងបានដាច់ជារបស់ផងអញ លើសជាង អស់ទាំងសាសន៍ ដ្បិតផែនដីទាំងមូលជារបស់ផងអញ។ ឯងរាល់គ្នានឹងបានជានគរដល់អញ ដែលសុទ្ធតែជា សង្ឃ ហើយជាសាសន៍បរិសុទ្ធអោយអញដែរ
+
+
+
+
+”
+
+  ។
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-03.jpg?direct&}}
 
-បីថ្ងៃក្រោយមក<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បន្ទាប់ពីប្រជាជនបានរៀបចំខ្លួនខាងវិញ្ញាណ ព្រះបានយាងចុះមកគង់លើកំពូលភ្នំស៊ីណៃទាំងមានផ្គរលាន់</font> ផ្លេកបន្ទោល<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> ផ្សែង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> និងសំឡេងរន្ទះផង។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>មានតែម៉ូសេម្នាក់ប៉ុណ្ណោះត្រូវបានអនុញ្ញាតឲ្យឡើងទៅលើភ្នំ។</font>
+បីថ្ងៃក្រោយមក បន្ទាប់ពីបណ្តារជនបានរៀបចំខ្លួន និងព្រលឹងវិញាណជាស្រេច ព្រះជាម្ចាស់ បានយាងចុះពីលើភ្នំស៊ីណៃមក អមដោយសំលេងផ្គរ មានផ្លេកបន្ទោរ និងពពកយ៉ាងក្រាស់ ព្រមទាំងឮសូរ ផ្លុំស្នែងយ៉ាងខ្លាំងក្រៃលែង ។ ព្រះទ្រង់អនុញាតិអោយតែលោកម៉ូសេម្នាក់គត់ ឡើងទៅលើកំពួលភ្នំនោះ។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានចងសម្ពន្ធមេត្រីជាមួយពួកគេ</font> ហើយមានបន្ទូលថា៖<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>“</font> យើងជាព្រះយ៉ាវេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>ជាព្រះរបស់អ្នករាល់គ្នា ដែលបានសង្គ្រោះអ្នករាល់គ្នាចេញពីទាសភាពនៅអេស៊ីព្ទ។ កុំថ្វាយបង្គំព្រះណាផ្សេងឡើយ</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+បន្ទាប់មកព្រះជាម្ចាស់បានតាំងសេចក្តីសញ្ញាជាមួយពួកគេ ហើយទ្រង់មានបន្ទូលថា៖​ “អញនេះគឺយេហូវ៉ា ជាព្រះនៃឯង ដែលបាននាំឯងចេញពីផ្ទះពួកបាវបំរើនៅស្រុកអេស៊ីព្ទមក។ កុំអោយថ្វាយបង្គំព្រះដទៃណាអោយ សោះ! ” ។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>“</font> កុំឆ្លាក់រូបអ្វី<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> ឬវត្ថុអ្វី<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>ហើយក៏កុំថ្វាយបង្គំវាដែរ</font> ពីព្រោះយើងជាព្រះយ៉ាវេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit></font> ជាព្រះដែលប្រចណ្ឌ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>កុំយកនាមរបស់យើងទៅប្រើឥតបានការឡើយ។ ចូររក្សាថ្ងៃសប្ប័ទជាថ្ងៃដ៏វិសុទ្ធ គឺចូរធ្វើកិច្ចការទាំងអស់របស់អ្នករាល់គ្នាក្នុងប្រាំមួយថ្ងៃ ដ្បិតនៅថ្ងៃទីប្រាំពីរជាថ្ងៃមួយសម្រាប់ឲ្យអ្នករាល់គ្នាសម្រាក</font> និងនឹកចាំអំពីយើង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; line-height: 19.6000003814697px;;;inherit>”</font> ។
+“កុំអោយឆ្លាក់ធ្វើរូបណាសំរាប់ឯងអោយសោះ ក៏កុំអោយធ្វើរូបណាអោយដូចជាអ្វីនៅឋានសួគ៌ខាងលើ ឬនៅផែនដីខាងក្រោម ឬនៅក្នុងទឹកដែលទាបជាងដីផង ក៏កុំអោយក្រាបសំពះចំពោះរបស់ទាំងនោះ ឬគោរពប្រតិបត្តិតាមនោះឡើយ ដ្បិត អញ ដែលជា យេហូវ៉ា ជាព្រះនៃឯង អញមានសេចក្តីប្រច័ណ្ឌ! កុំអោយចេញព្រះនាមរបស់ព្រះយេហូវ៉ា ជាព្រះនៃឯង ជាអសារឥតការឡើយ! ចូរញែកថ្ងៃឈប់សំរាកចេញជា បរិសុទ្ធ ក្នុងរវាង ៦ ថ្ងៃ នោះឯងត្រូវធ្វើអស់ទាំងការរបស់ឯងចុះ តែឯថ្ងៃទី៧ គឺជាថ្ងៃ សំរាប់អោយឯងឈប់សំរាក និងជាការរំលឹកថ្វាយព្រះយេហូវ៉ាជាព្រះនៃឯង ”
+  ។​
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?direct&}}
-
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>“</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ចូរគោរពឪពុកនិងម្ដាយរបស់អ្នករាល់គ្នា។</font> កុំសម្លាប់មនុស្ស។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>កុំប្រព្រឹត្តអំពើផិតក្បត់។</font> កុំលួចប្លន់។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> កុំកុហក។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>កុំលោភលន់ចង់បានប្រពន្ធរបស់គេ</font> ផ្ទះរបស់គេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> ឬអ្វីដែលជារបស់គេឡើយ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>”</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>។</font>
+ចូរអោយគោរពប្រតិបត្តិដល់ឪពុកម្តាយរបស់ឯង! កុំអោយសំលាប់មនុស្សអោយសោះ! កុំអោយផិតគ្នា អោយសោះ! កុំអោយលួចប្លន់អោយសោះ! កុំអោយកុហកអោយសោះ! កុំអោយលោភចង់បានផ្ទះអ្នកជិតខាង ខ្លួន ក៏កុំអោយលោភចង់បានប្រពន្ធគេ ឬរបស់អ្វីៗដែលជាកម្មសិទ្ធរបស់គេអោយសោះ!
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះបានសរសេរបទបញ្ជាទាំងដប់ប្រការនៅលើបន្ទះថ្មពីរ</font> ហើយប្រគល់ឲ្យម៉ូសេ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះក៏បានប្រទានក្រឹត្យវិន័យ និងច្បាប់ជាច្រើនផ្សេងទៀតផងដែរ។ ប្រសិនបើប្រជាជនប្រព្រឹត្តតាមក្រឹត្យវិន័យទាំងនេះ</font> ព្រះបានសន្យាថា<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> ព្រះអង្គនឹងប្រទានពរ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> ហើយការពារពួកគេ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ប្រសិនបើពួកគេមិនប្រព្រឹត្តតាមក្រឹត្យវិន័យទាំងនេះទេ</font> ព្រះនឹងដាក់ទោសពួកគេ។
+បន្ទាប់មកព្រះជាម្ចាស់បានសរសេរនូវ​ក្រឹត្យវិន័យទាំង១០ប្រការ នៅលើថ្ម ពីរផ្ទាំង ហើយប្រទានទៅ លោកម៉ូសេ។​ ព្រះជាម្ចាស់ក៏បានដាក់នូវច្បាប់ និងវិន័យជាច្រើនផ្សេងទៀត ដើម្បីអោយពួកគេប្រព្រឹត្តតាម។ ប្រសិនបើពួកគេបានប្រព្រឹត្តតាមក្បួនច្បាប់ទាំងនោះ ព្រះជាម្ចាស់បានសន្យាថា​ ទ្រង់នឹងប្រទានពរ ព្រមទាំង ការពារពួកគេផង។ ផ្ទុយទៅវិញ ប្រសិនបើពួកគេមិនប្រព្រឹត្តតាម នោះព្រះជាម្ចាស់នឹងដាក់ទោសគេវិញ។
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះក៏បានឲ្យអ៊ីស្រាអែលនូវគម្រោងលម្អិតអំពីរោងដែលព្រះអង្គមានព្រះទ័យចង់ឲ្យពួកគេធ្វើ។</font> រោងនេះត្រូវបានហៅថា<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> រោងជំនួប<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> គឺវាមានបន្ទប់ពីរ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ខណ្ឌដោយវាំងននមួយផ្ទាំងធំ។ មានតែមហាបូជាចារ្យប៉ុណ្ណោះត្រូវបានអនុញ្ញាតឲ្យចូលទៅក្នុងបន្ទប់នៅខាងក្រោយវាំងនន ពីព្រោះព្រះគង់នៅទីនោះ។</font>
+ព្រះជាម្ចាស់ក៏ប្រាប់យ៉ាងលំអិត អំពីរោងឧបោសថ ដែលទ្រង់សព្វព្រះហរទ័យអោយពួកគេធ្វើ ដែលមានឈ្មោះថា រោងឧបោសថប្រជុំថ្វាយបង្គំ ដោយធ្វើជាពីរបន្ទប់ ខណ្ឌពីគ្នាដោយវាំងននមួយផ្ទាំងធំ។ មានតែសម្តេចសង្ឃជាន់ខ្ពស់តែម្នាក់គត់ ត្រូវបានអនុញាតិអោយចូលទៅកាន់បន្ទប់ខាងក្រោយវាំងនន ដែលជា កន្លែងបរិសុទ្ធបំផុត ពីព្រោះ ព្រះជាម្ចាស់គង់នៅទីនោះ។ ​
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អ្នកណាដែលមិនប្រព្រឹត្តតាមក្រឹត្យវិន័យរបស់ព្រះ អាចនាំសត្វមកទីសក្ការៈនៅខាងមុខរោងជំនួប</font> ទុកជាយញ្ញបូជាដល់ព្រះ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>បូជាចារ្យនឹងសម្លាប់សត្វនោះ</font> ហើយដុតវានៅលើអាសនា។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ឈាមរបស់សត្វដែលគេបូជាបានបិទបាំងបាបរបស់មនុស្ស ហើយធ្វើឲ្យអ្នកនោះបានស្អាតនៅចំពោះព្រះ។ ព្រះបានជ្រើសរើសអើរ៉ុនជាបងប្រុសរបស់ម៉ូសេ និងពូជពង្សរបស់អើរ៉ុនឲ្យធ្វើជាក្រុមបូជាចារ្យរបស់ព្រះអង្គ។</font>
+ជនណាដែលបានប្រព្រឹត្តរំលងក្រឹត្យវិន័យរបស់ព្រះជាម្ចាស់ ជននោះត្រូវនាំយកសត្វ​មួយក្បាលមកកាន់ អសនានៅពីមុខរោងឧបោសថ ជាដង្វាយថ្វាយដល់ព្រះជាម្ចាស់​។​ សម្តេចសង្ឃត្រូវសម្លាប់សត្វនោះ ហើយដុត នៅលើអសនា។ ឈាមរបស់សត្វនោះ ត្រូវបានប្រើដើម្បីសងលួសអំពើបាបរបស់គេ និងសំអាតគេអោយបាន ស្អាត នៅចំពោះព្រះនេត្រព្រះជាម្ចាស់។​ ព្រះជាម្ចាស់បានជ្រើសរើស បងប្រុសលោកម៉ូសេ លោក អឺរ៉ុន និងពូជពង្ស ដើម្បីធ្វើជាពួកសង្ឃសំរាប់ទ្រង់។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ប្រជាជនទាំងអស់យល់ព្រមស្ដាប់បង្គាប់ក្រឹត្យវិន័យដែលព្រះបានប្រគល់ឲ្យពួកគេ គឺថ្វាយបង្គំតែព្រះមួយប៉ុណ្ណោះ និងធ្វើជាប្រជាជនពិសេសរបស់ព្រះអង្គ។ ប៉ុន្តែមិនយូរប៉ុន្មានក្រោយពីពួកគេបានសន្យាស្ដាប់បង្គាប់ព្រះ ពួកគេបានប្រព្រឹត្តបាបដ៏គួរស្អប់ខ្ពើម។</font>
+ពួកបណ្តាជនទាំងអស់យល់ព្រមធ្វើតាមរាល់ក្រឹត្យវិន័យដែលព្រះជាម្ចាស់ប្រទានដល់ពួកគេ គឺថ្វាយបង្គំ តែទ្រង់មួយអង្គប៉ុណ្ណោះ ហើយពួកគេរាប់ជារាស្រ្តជ្រើសតាំងដ៏ពិសេសរបស់ទ្រង់។ ប៉ុន្តែក្រោយមកមិនយូរប៉ុន្មាន ពីពេលដែលពួកគេបានសន្យាដើម្បីប្រព្រឹត្តតាមក្រឹត្យវិន័យព្រះជាម្ចាស់ ពួកគេបែរជាមកប្រព្រឹត្តអំពើបាប ដ៏ធ្ងន់ធ្ងរទៅវិញ។
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ក្នុងរយៈពេលប៉ុន្មានថ្ងៃ ម៉ូសេនៅលើភ្នំស៊ីណៃសន្ទនាជាមួយព្រះ។ ប្រជាជនចាប់ផ្ដើមហត់នឿយនឹងរងចាំគាត់ត្រឡប់មកវិញ។</font> ដូច្នេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ពួកគេបានយកមាសមកឲ្យអើរ៉ុន ហើយសុំឲ្យគាត់ធ្វើរូបមួយដើម្បីពួកគេថ្វាយបង្គំ!</font>
+ក្នុងរយៈពេលប៉ុន្មានថ្ងៃប៉ុណ្ណោះដែលលោកម៉ូសេកំពុងនិយាយជាមួយព្រះជាម្ចាស់ នៅលើកំពូលភ្នំ ស៊ីណៃ​ ពួកបណ្តារជនចាប់ផ្តើមធុញទ្រាន់ក្នុងការរង់ចាំគាត់ត្រលប់មកវិញ ក៏នាំគ្នាប្រមែប្រមូល មាសទៅឯ លោកអឺរ៉ុន និងស្នើរអោយគាត់សិតជារូបព្រះមួយដើម្បីថ្វាយបង្គំ!
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>អើរ៉ុនបានធ្វើរូបមាសមួយមានរាងដូចកូនគោ។ ប្រជាជនចាប់ផ្ដើមថ្វាយបង្គំរូបនេះ</font> ហើយធ្វើយញ្ញបូជាដល់វា!<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ព្រះទ្រង់ព្រះពិរោធយ៉ាងខ្លាំងនឹងពួកគេ</font> ព្រោះតែបាបរបស់ពួកគេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ក៏រៀបគម្រោងបំផ្លាញពួកគេ។ ប៉ុន្តែម៉ូសេបានអធិស្ឋានឲ្យពួកគេ ព្រះសណ្ដាប់ការអធិស្ឋានរបស់ម៉ូសេ ដូច្នេះព្រះអង្គមិនបានបំផ្លាញពួកគេទេ។</font>
+អឺរ៉ុនបានយកមាសទាំងនោះសិតជារូបព្រះមួយ ដែលមានសណ្ឋានជាកូនគោ។​ ពួកបណ្តារជន បានថ្វាយបង្គំរូបនោះ ហើយក៏ចាប់ផ្តើមថ្វាយដង្វាយ​ចំពោះវា។ ព្រះជាម្ចាស់ខ្ញាល់នឹងពួកគេយ៉ាងខ្លាំង ចំពោះអំពើ បាបដែលពួកគេបានប្រព្រឹត្ត ហើយទ្រង់មានបំណងបំផ្លាញពួកគេអោយសូន្យបង់ ប៉ុន្តែលោក ម៉ូសេ បានអធិដ្ឋាន ទូលអង្វរជំនួសពួកគេ ហើយទ្រង់ក៏ព្រមស្តាប់តាមពាក្យទូលអង្វររបស់គាត់ ដោយមិនបំផ្លាញពួកគេឡើយ។
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>នៅពេលម៉ូសេចុះមកពីភ្នំវិញ</font> ឃើញរូបសំណាកនេះ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> គាត់ខឹងយ៉ាងខ្លាំង<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ក៏បោកកំទេចបន្ទះថ្មដែលព្រះបានសរសេរបទបញ្ជាទាំងដប់ប្រការ។</font>
+ពេលដែលលោកម៉ូសេចុះពីលើភ្នំមក គាត់បានឃើញរូបសំណាក់គោ គាត់ខឹងខ្លាំងណាស់ ក៏បោក បំបែកបន្ទះថ្មទាំងពីរផ្ទាំង ដែលព្រះជាម្ចាស់បានសរសេរនូវក្រឹត្យវិន័យទាំង ១០ប្រការនោះចោល។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>រួចម៉ូសេវាយកំទេចរូបសំណាកឲ្យទៅជាម្សៅ ហើយបាចម្សៅចូលទៅក្នុងទឹក ដើម្បីឲ្យប្រជាជនផឹកទឹកនេះ។ ព្រះបានដាក់ឲ្យមានគ្រោះកាចលើប្រជាជន បណ្ដាលឲ្យមនុស្សជាច្រើនក្នុងពួកគេស្លាប់។</font>
+បន្ទាប់មកម៉ូសេបានកម្ទេចរូបសំណាក់នោះអោយម៉ត់ដូចជាម្សៅ និងយកម្សៅនោះទៅលាយចូល ក្នុងទឹកឲ្យពួកកូនចៅអ៊ីស្រាអែលផឹក។​ ព្រះជាម្ចាស់បានបញ្ចូនគ្រោះកាចមកដល់ពួកគេ ហើយមានមនុស្ស ជាច្រើនបានស្លាប់។​
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?direct&}}
 
-<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ម៉ូសេឡើងទៅលើភ្នំម្ដងទៀត ហើយអធិស្ឋានសុំឲ្យព្រះលើកលែងទោសឲ្យប្រជាជន។</font> ព្រះសណ្ដាប់ម៉ូសេ<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit></font> ហើយលើកលែងទោសឲ្យពួកគេ។<font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>ម៉ូសេបានសរសេរបទបញ្ជាទាំងដប់ប្រការនៅលើបន្ទះថ្មថ្មីជំនួសបន្ទះថ្មដែលគាត់បោកកំទេច។ ព្រះក៏នាំជនជាតិអ៊ីស្រាអែលចេញពីភ្នំស៊ីណៃឆ្ពោះទៅទឹកដីសន្យា</font> <font inherit/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif;;;inherit>៕</font>
+ម៉ូសេបានឡើងទៅលើភ្នំម្តងទៀត រួចបានអធិស្ឋានសុំព្រះជាម្ចាស់បានអត់ទោសដល់ពួកបណ្តាជន។ ព្រះជាម្ចាស់បានស្តាប់លោកម៉ូសេ ហើយទ្រង់ក៏អត់ទោសដល់ពួកគេ។​ លោកម៉ូសេបានសរសេរក្រឹត្យវិន័យ ទាំង១០ប្រការឡើងវិញ នៅលើបន្ទះថ្មថ្មី ជំនួសអោយបន្ទះថ្មចាស់ដែលលោកបានបំបែក។ ​បន្ទាប់មក ព្រះជាម្ចាស់បាននាំជនជាតិអ៊ីស្រាអែលចេញពីភ្នំស៊ីណៃ ឆ្ពោះទៅកាន់ទឹកដីសន្យា។​
 
-//រឿងព្រះគម្ពីរ ដកស្រង់ពី​: និក្ខមនំ​ 19-34//
+សាច់រឿងដកស្រង់ចេញពីព្រះគម្ពីរបរិសុទ្ធ
+
+
+
+  *
+
+និក្ខមនំ ១៩ : ៣៤
