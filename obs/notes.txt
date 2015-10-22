@@ -1,4 +1,4 @@
-====== ការបកប្រែ​និងការត្រួ ( Notes)  ======
+====== ការបកប្រែ​និងការត្រួតពិនិត្យពាក្យពន្យល់ ======
 
 //In order to help translators of [[:km:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
   - [[:km:obs:notes:01|The Creation]]
