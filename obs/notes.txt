@@ -1,7 +1,7 @@
 ====== ការបកប្រែ​និងការត្រួតពិនិត្យពាក្យពន្យល់ ======
 
 //In order to help translators of [[:km:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
-  - [[:km:obs:notes:01|The Creation]]
+  - [[:km:obs:notes:01|ការបង្កើតដំបូង]]
   - [[:km:obs:notes:02|Sin Enters the World]]
   - [[:km:obs:notes:03|The Flood]]
   - [[:km:obs:notes:04|God's Covenant with Abraham]]
