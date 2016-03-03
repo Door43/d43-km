@@ -14,7 +14,7 @@
   * **[[:km:obe:other:idol]]**
   * **[[:km:obe:kt:worship]]**
   * **[[:km:obe:kt:temple]]**
-  * **[[:km:obe:other:kingdom-of-judah]]**
+  * **[[:km:obe:other:kingdomofjudah]]**
 
 
 ==== Translation Notes: ====
