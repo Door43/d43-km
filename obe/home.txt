@@ -1,10 +1,14 @@
-====== Complete List of Important Terms - Khmer ======
+
+====== Complete List of translationWords - Khmer ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:km:obe:kt:home]]
-  * [[:km:obe:other:home]]
+  * [[:kt:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:kt:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
 
-<nspages km:obe -r -title -exclude:home -textPages="">
+
+==== All Terms in the OBE: ====
+
+<nspages kt:obe -r -title -exclude:home -textPages="">
+
